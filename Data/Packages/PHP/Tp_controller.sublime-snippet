@@ -1,0 +1,14 @@
+﻿<snippet>
+    <content><![CDATA[namespace ${1:Home}\Controller;
+use Think\Controller;
+
+class ${2:Index}Controller extends Controller{
+    public function index(){
+        ${3:# code...}
+    }
+}
+]]></content>
+    <tabTrigger>k_controller</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_k_index</description>
+</snippet>

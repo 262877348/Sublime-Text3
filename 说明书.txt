@@ -1,0 +1,3 @@
+提供的破解方法教程：
+点击注册机中间的 Patch key ，找到sublime text 3的目录，双击 sublime.exe ，再输入 Name ，再点Generate 就出来License，复制License，打开Sublime Text 3 ，点菜单栏的 Help → Enter license 粘贴您的License即可。
+汉化包安装教程：进入 \Sublime Text Build 3047\Packages 将汉化包中的文件拖入替换即可。

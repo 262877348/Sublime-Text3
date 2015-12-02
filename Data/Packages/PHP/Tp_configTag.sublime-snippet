@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[/* Tag标签 */
+'TAGLIB_PRE_LOAD'      => array( 'Think\\Template\\TagLib\\Html', 'Think\\Template\\TagLib\\Weblock'),
+'TAGLIB_BUILD_IN'      => 'Cx,Html,Weblock',							//标签库类名
+]]></content>
+    <tabTrigger>c_tag</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_c_tag</description>
+</snippet>

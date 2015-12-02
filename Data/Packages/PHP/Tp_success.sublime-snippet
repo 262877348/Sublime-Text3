@@ -1,0 +1,8 @@
+﻿<snippet>
+    <content><![CDATA[// 操作成功第一个参数表示提示信息，第二个参数表示跳转地址，第三个参数是跳转时间（单位为秒）
+\$this->success('${3:操作}成功！', U('${1:Index}/${2:index}')${4:,3});
+]]></content>
+    <tabTrigger>k_success</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_success</description>
+</snippet>

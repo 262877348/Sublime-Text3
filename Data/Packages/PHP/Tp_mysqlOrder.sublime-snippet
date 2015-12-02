@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[order('${1:id} ${2:desc}')]]></content>
+    <tabTrigger>tp_order</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_order</description>
+</snippet>

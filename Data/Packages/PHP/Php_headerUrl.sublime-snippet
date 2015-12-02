@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+header("Location:${1:http://www.baidu.com/}");
+]]></content>
+    <tabTrigger>f_headerurl</tabTrigger>
+    <scope>source.php</scope>
+    <description>Php_f_headerurl</description>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[public function _initialize(){
+    ${1:# code...}
+}
+]]></content>
+    <tabTrigger>k_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_initialize</description>
+</snippet>

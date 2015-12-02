@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fetchSql(${1:\$true})]]></content>
+    <tabTrigger>tp_fetchsql</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_fetchsql</description>
+</snippet>

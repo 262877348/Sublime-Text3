@@ -1,0 +1,8 @@
+﻿<snippet>
+	<content><![CDATA[
+#login #btn .f-btn{color:#fff;width:100px;height:31px;cursor:pointer;font-size:16px;background:#232323;line-height:20px;border-radius:5px;font-family:\5fae\8f6f\96c5\9ed1;}
+]]></content>
+	<tabTrigger>cssbutton</tabTrigger>
+	<scope>text.html</scope>
+    <description>cssbutton …</description>
+</snippet>

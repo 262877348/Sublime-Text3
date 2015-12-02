@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[private
+]]></content>
+    <tabTrigger>s_siyou</tabTrigger>
+    <scope>source.php</scope>
+    <description>Php_private</description>
+</snippet>

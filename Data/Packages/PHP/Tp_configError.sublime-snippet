@@ -1,0 +1,12 @@
+﻿<snippet>
+    <content><![CDATA[/* 错误设置 */
+'SHOW_PAGE_TRACE'      =>  true,          								// 显示页面Trace信息
+'ERROR_MESSAGE'        =>  '页面错误！请稍后再试～',					//错误显示信息,非调试模式有效
+'ERROR_PAGE'           =>  '', 											// 错误定向页面
+'SHOW_ERROR_MSG'       =>  false,    									// 显示错误信息
+'TRACE_MAX_RECORD'     =>  100,    										// 每个级别的错误信息 最大记录数
+]]></content>
+    <tabTrigger>c_error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_c_error</description>
+</snippet>

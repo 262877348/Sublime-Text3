@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[//将数组转换成Json字符串 输入前台需要 eval()
+echo json_encode(${2:\$data});  
+exit;
+]]></content>
+    <tabTrigger>f_json_encode</tabTrigger>
+    <scope>source.php</scope>
+    <description>Php_f_json_encode</description>
+</snippet>

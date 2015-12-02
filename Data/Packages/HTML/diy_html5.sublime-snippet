@@ -1,0 +1,21 @@
+﻿<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>标题</title>
+    <meta name="keywords" content="关键字">
+    <meta name="description" content="简介">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="basic.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" src="index.js"></script>
+</head>
+<body>
+    ${1:# code...}
+</body>
+</html>]]></content>
+  <tabTrigger>html5</tabTrigger>
+  <scope>text.html</scope>
+    <description>HTML5…</description>
+</snippet>

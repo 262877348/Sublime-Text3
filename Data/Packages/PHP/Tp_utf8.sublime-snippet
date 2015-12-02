@@ -1,0 +1,6 @@
+﻿<snippet>
+    <content><![CDATA[header("Content-Type: Text/Html;Charset=UTF-8");]]></content>
+    <tabTrigger>phputf8</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_phputf8</description>
+</snippet>

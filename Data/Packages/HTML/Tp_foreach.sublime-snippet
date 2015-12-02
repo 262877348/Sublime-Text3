@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[<foreach name="${1:list}" item="${2:vo}" key="k" >
+   ${4:\{\$vo.name\}}
+</foreach>
+]]></content>
+    <tabTrigger>tpforeach</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpforeach</description>
+</snippet>

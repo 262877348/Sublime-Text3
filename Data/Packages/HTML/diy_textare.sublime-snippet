@@ -1,0 +1,9 @@
+﻿<snippet>
+	<content><![CDATA[
+<textarea name='${1:textarea}' cols='60' rows='5'>${2}</textarea>
+]]></content>
+	<tabTrigger>textarea</tabTrigger>
+	<scope>text.html</scope>
+    <description>textare</description>
+</snippet>
+

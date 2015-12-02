@@ -1,0 +1,55 @@
+﻿<snippet>
+    <content><![CDATA[// 自动验证
+//protected \$tableName = 'authRule'; 
+
+// 批量验证
+// protected \$patchValidate = true;
+protected \$_validate = array(
+    // 参数一【字段名称/必填项】：
+    //              例如：title
+    // 参数二【验证规则/必填项】：
+    //              regex         正则表达试                例如：'regex|'''
+    //              require       字段必填                  例如：'123'
+    //              email         邮箱格式                  例如：'262877348@qq.com'
+    //              url           Url格式                   例如：'http://www.baidu.com'
+    //              currency      货币格式【只能为整数】
+    //              number        数字格式
+    //              integer       整数
+    //              double        浮点数字
+    //              zip           邮政编码
+    //              english       英文
+    //              自定义函数                              例如：checkLength   与    第五参数里面 callback 结合
+    //              系统函数                                例如：my_encode     与    第五参数里面 function 结合
+    // 参数三【提示信息/必填项】：
+    //              例如：标题不能为空
+    // 参数四【验证条件/可选项】
+    //              self::EXISTS_VALIDATE 或者 0 存在字段就验证（默认）
+    //              self::MUST_VALIDATE   或者 1 必须验证
+    //              self::VALUE_VALIDATE  或者 2 值不为空的时候验证
+    // 参数五【附加规则/可选项】说明：如果参数6/7任意一个参数需要填写，参数五则必须填写
+    // regex        正则验证，定义的验证规则是一个正则表达式（默认）
+    // function     函数验证，定义的验证规则是一个函数名
+    // callback     方法验证，定义的验证规则是当前模型类的一个方法
+    // confirm      验证表单中的两个字段是否相同，定义的验证规则是一个字段名
+    // equal        验证是否等于某个值，该值由前面的验证规则定义
+    // notequal     验证是否不等于某个值，该值由前面的验证规则定义（3.1.2版本新增）
+    // in           验证是否在某个范围内，定义的验证规则可以是一个数组或者逗号分割的字符串
+    // notin        验证是否不在某个范围内，定义的验证规则可以是一个数组或者逗号分割的字符串（3.1.2版本新增）
+    // length       验证长度，定义的验证规则可以是一个数字（表示固定长度）或者数字范围（例如3,12 表示长度从3到12的范围）
+    // between      验证范围，定义的验证规则表示范围，可以使用字符串或者数组，例如1,31或者array(1,31)
+    // notbetween   验证不在某个范围，定义的验证规则表示范围，可以使用字符串或者数组（3.1.2版本新增）
+    // expire       验证是否在有效期，定义的验证规则表示时间范围，可以到时间，例如可以使用 2012-1-15,2013-1-15 表示当前提交有效期在2012-1-15到2013-1-15之间，也可以使用时间戳定义
+    // ip_allow     验证IP是否允许，定义的验证规则表示允许的IP地址列表，用逗号分隔，例如201.12.2.5,201.12.2.6
+    // ip_deny      验证IP是否禁止，定义的验证规则表示禁止的ip地址列表，用逗号分隔，例如201.12.2.5,201.12.2.6
+    // unique       验证是否唯一，系统会根据字段目前的值查询数据库来判断是否存在相同的值，当表单数据中包含主键字段时unique不可用于判断主键字段本身
+    // 参数六【验证时间/可选项】
+    //              self::MODEL_INSERT或者 1 新增数据时候验证
+    //              self::MODEL_UPDATE或者 2 编辑数据时候验证
+    //              self::MODEL_BOTH或者   3 全部情况下验证（默认）          
+    array('表单字段名', '内置规则/自定义规则', '提示信息', '[验证条件]', '[附加规则]', '[验证时间]');
+);
+]]></content>
+    <tabTrigger>auto_validate</tabTrigger>
+    <scope>source.php</scope>
+    <description>auto_validate</description>
+</snippet>

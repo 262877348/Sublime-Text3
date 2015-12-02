@@ -1,0 +1,27 @@
+﻿<snippet>
+	<content><![CDATA[
+//1.创建ajax对象
+if(window.XMLHttpRequest){
+    oajax=new XMLHttpRequest();
+}else{
+    oajax=new ActiveXObject('Microsoft.XMLHTTP');
+}
+//2.连接ajax
+oajax.open('get','./check.php?name='+obj.value,true);
+//3.发送
+oajax.send();
+//4.根据状态处理
+oajax.onreadystatechange=function(){
+    if(oajax.readyState==4 && oajax.status==200){
+        var flag=oajax.responseText;
+        alert(flag);
+        if(flag=='yes'){
+            document.getElementById('userid').innerHTML='该用户名已经存在，请重新输入';
+        }
+    }
+}
+]]></content>
+	<tabTrigger>ajax</tabTrigger>
+	<scope>text.html</scope>
+    <description>ajax</description>
+</snippet>

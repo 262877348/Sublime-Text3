@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[mysql://root:123456@localhost:3306/rbacauth
+]]></content>
+    <tabTrigger>c_dns</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_c_dns</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parent::_initialize();]]></content>
+    <tabTrigger>k_parentinit</tabTrigger>
+    <scope>source.php</scope>
+    <description>Php_k_parentinit</description>
+</snippet>

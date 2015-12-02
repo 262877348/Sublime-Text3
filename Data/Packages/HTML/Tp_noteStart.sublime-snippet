@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[<!-- ${1:header} start -->
+]]></content>
+    <tabTrigger>tpstart</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpstart</description>
+</snippet>

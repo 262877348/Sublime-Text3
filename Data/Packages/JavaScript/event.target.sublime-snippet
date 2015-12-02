@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+event.target;
+]]></content>
+    <tabTrigger>eventtar</tabTrigger>
+    <scope>source.js</scope>
+    <description>target¡­</description>
+</snippet>

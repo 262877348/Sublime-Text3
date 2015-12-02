@@ -1,0 +1,8 @@
+﻿<snippet>
+    <content><![CDATA[\$data = array();
+\$this->ajaxReturn(array('status'=>${1:1}, 'info'=>'${2:登录成功！}', 'data'=>\$data));
+]]></content>
+    <tabTrigger>k_ajax</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_k_ajax</description>
+</snippet>

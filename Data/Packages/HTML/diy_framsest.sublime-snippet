@@ -1,0 +1,18 @@
+﻿<snippet>
+<content><![CDATA[
+<frameset rows="65,*,50$1" frameborder="1" border="1" framespacing="0">
+  	<frame src="./top.php$2" name="topFrame" scrolling="no" scrolling="yes">
+  		<frameset cols="200,*" name="btFrame" frameborder="1" border="1" framespacing="0">
+    		<frame src="./menu.php$3" noresize name="menu" scrolling="no">
+    		<frame src="./main.php$4" noresize name="main" scrolling="no">
+</frameset>
+  	<frame src="./copy.php$5" name="copyFrame" scrolling="no">
+</frameset>
+<noframes>
+	<body>您的浏览器不支持框架！</body>
+</noframes>
+]]></content>
+	<tabTrigger>frameset</tabTrigger>
+	<scope>text.html</scope>
+    <description>frameset</description>
+</snippet>

@@ -1,0 +1,28 @@
+﻿<snippet>
+    <content>
+    <![CDATA[
+/**
+ * javascript弹窗跳转函数
+ */
+function showdialog($msg,$isredirect=0,$url = "") 
+    {
+        ?>
+        <script language="javascript">
+            alert("<?php echo $msg; ?>");
+        <?php
+            if($isredirect == 1)
+            {
+                ?>
+                window.location.href="<?php echo $url; ?>";
+                <?php
+            }
+        ?>
+        </script>
+        <?php
+    }
+
+]]></content>
+    <tabTrigger>show</tabTrigger>
+    <scope>source.php</scope>
+    <description>function show</description>
+</snippet>

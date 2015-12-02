@@ -1,0 +1,8 @@
+﻿<snippet>
+    <content><![CDATA[//${1:前台}模块绑定
+define('BIND_MODULE','${2:Home}');${0:}
+]]></content>
+    <tabTrigger>bing_module</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_bing_module</description>
+</snippet>

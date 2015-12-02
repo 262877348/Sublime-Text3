@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[/**
+* 项目添加
+* @author 	Zhujinkui <Tel:15501052244>
+* @var 		string 	\$name        名字
+* @var 		string 	\$description 简介
+* @param 	mixed[] \$items 	  数组
+* @return 	integer
+*/
+]]></content>
+    <tabTrigger>doc_param</tabTrigger>
+    <scope>source.php</scope>
+    <description>Php_doc_param</description>
+</snippet>

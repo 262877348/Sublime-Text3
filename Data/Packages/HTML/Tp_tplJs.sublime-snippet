@@ -1,0 +1,6 @@
+﻿<snippet>
+    <content><![CDATA[<js href="${1:jspath}" />]]></content>
+    <tabTrigger>tpjs</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpjs</description>
+</snippet>

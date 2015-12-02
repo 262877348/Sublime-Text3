@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[<!-- ${3:header}  -->
+<include file="${1:Public}/${2:header}" />
+<!-- /${3:header}  -->
+]]></content>
+    <tabTrigger>tp_include</tabTrigger>
+    <scope>text.html</scope>
+    <description>tp_include</description>
+</snippet>

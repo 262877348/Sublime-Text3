@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[{:U('Index/index')}
+]]></content>
+    <tabTrigger>tpurl0</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpurl0</description>
+</snippet>

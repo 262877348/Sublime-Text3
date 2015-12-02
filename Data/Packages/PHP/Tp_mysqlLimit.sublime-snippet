@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[limit('${1:10},${2:25}')]]></content>
+    <tabTrigger>tp_limit</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_limit</description>
+</snippet>

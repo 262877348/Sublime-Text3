@@ -1,0 +1,6 @@
+﻿<snippet>
+  <content><![CDATA[<meta http-equiv="Content-Type content=text/html;charset=utf-8$1">]]></content>
+  <tabTrigger>meta</tabTrigger>
+  <scope>text.html</scope>
+    <description>meta …</description>
+</snippet>

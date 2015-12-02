@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[//重定向操作
+//\$this->redirect('New/category', array('cate_id' => 2), 5, '页面跳转中...');
+\$this->redirect('${1:Index}/${2:index}');
+]]></content>
+    <tabTrigger>k_cdx</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_redirect</description>
+</snippet>

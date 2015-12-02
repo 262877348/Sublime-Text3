@@ -1,0 +1,44 @@
+﻿<snippet>
+    <content><![CDATA[namespace ${1:Home}\Model;
+use Think\Model\RelationModel;
+class ${2:User}Model extends RelationModel{
+    protected $_link = array(
+        'Userinfo'             =>  array(
+            'mapping_type'         => self::HAS_ONE,        //关联类型：[一对一/HAS_ONE] [一对多/HAS_MANY] [多对多/MANY_TO_MANY] 及[数据反调/BELONGS_TO]
+            'foreign_key'          => 'uid',                //关联表ID
+            'mapping_name'         => 'userinfo',           //建议与表名一样
+            'mapping_fields'       => 'dept',               //过滤字段
+            'as_fields'            => 'name',               //将二级数据映射到一维数组上   name:myname 可以解决冲突
+        ),
+        'Article'              => array(
+            'mapping_type'         => self::HAS_MANY,       //关联类型：[一对一/HAS_ONE] [一对多/HAS_MANY] [多对多/MANY_TO_MANY] 及[数据反调/BELONGS_TO]
+            'class_name'           => 'Article',            //要关联的模型类名
+            'foreign_key'          => 'userId',             //关联表ID
+            'mapping_name'         => 'articles',          //关联的映射名称，用于获取数据用该名称不要和当前模型的字段有重复，否则会导致关联数据获取的冲突。
+            'mapping_order'        => 'create_time desc',   //关联查询的排序
+            // 定义更多的关联属性
+            ……
+        ),
+        'Category'             =>  array(
+            'mapping_type'         => self::BELONGS_TO,     //关联类型：[一对一/HAS_ONE] [一对多/HAS_MANY] [多对多/MANY_TO_MANY] 及[数据反调/BELONGS_TO]
+            'foreign_key'          => 'cid',                //关联表ID
+            'mapping_fields'       => 'dept',               //过滤字段
+            'mapping_fields'       => 'number',             //过滤第二张表字段
+            'as_fields'            => 'name',               //直接把关联的字段值映射成数据对象中的某个字段  合并数组
+        ),
+        'Group'                => array(
+            'mapping_type'         =>  self::MANY_TO_MANY,  //关联类型：[一对一/HAS_ONE] [一对多/HAS_MANY] [多对多/MANY_TO_MANY] 及[数据反调/BELONGS_TO]
+            'class_name'           =>  'Group',             //要关联的模型类名
+            'mapping_name'         =>  'groups',            //关联的映射名称，用于获取数据用该名称不要和当前模型的字段有重复，否则会导致关联数据获取的冲突。
+            'foreign_key'          =>  'userId',            //关联的外键名称 外键的默认规则是当前数据对象名称_id
+            'relation_foreign_key' =>  'groupId',           //关联表的外键名称 默认的关联表的外键名称是表名_id
+            'mapping_order'        =>  'create_time desc',  //关联表的外键名称 默认的关联表的外键名称是表名_id
+            'relation_table'       =>  'think_group_user'   //多对多的中间关联表名称
+        )
+    );
+}
+]]></content>
+    <tabTrigger>m_relation</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_m_relation</description>
+</snippet>

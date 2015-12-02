@@ -1,0 +1,11 @@
+﻿<snippet>
+    <content><![CDATA[<volist name="${1:list}" id="${2:vo}">
+    <volist name="vo['${3:sub}']" id="sub">
+        ${4:\{\$sub.name\}}
+    </volist>
+</volist>
+]]></content>
+    <tabTrigger>tpvolist</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpvolist</description>
+</snippet>

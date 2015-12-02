@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setField('${1:name}','${2:ThinkPHP}')]]></content>
+    <tabTrigger>tp_setfield</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_setfield</description>
+</snippet>

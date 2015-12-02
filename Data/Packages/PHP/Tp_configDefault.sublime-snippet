@@ -1,0 +1,11 @@
+﻿<snippet>
+    <content><![CDATA[/* 模块访问 */
+'MODULE_ALLOW_LIST'    =>  array('Home','Admin'), 		// 配置所有分组列表
+'MODULE_DENY_LIST'     =>  array('Common','Runtime'),    		// 禁止访问的分组列表
+'DEFAULT_MODULE'       =>  'Home', 										// 访问时默认分组
+'URL_MODULE_MAP'       =>  array('conist'=>'admin'),					//模块映射
+]]></content>
+    <tabTrigger>c_default</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_c_default</description>
+</snippet>

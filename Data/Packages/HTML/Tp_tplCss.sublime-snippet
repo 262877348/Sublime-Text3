@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[<css href="${1:csspath}" />
+]]></content>
+    <tabTrigger>tpcss</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpcss</description>
+</snippet>

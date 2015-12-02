@@ -1,0 +1,8 @@
+﻿<snippet>
+<content><![CDATA[
+setTemplateDir('${2:./tpls}')
+]]></content>
+	<tabTrigger>settemp</tabTrigger>
+	<scope>text.html</scope>
+    <description>settemp …</description>
+</snippet>

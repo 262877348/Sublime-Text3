@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[use Think\Model\RelationModel;
+]]></content>
+    <tabTrigger>k_relation_model</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_k_relation_model</description>
+</snippet>

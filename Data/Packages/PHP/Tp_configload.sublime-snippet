@@ -1,0 +1,8 @@
+﻿<snippet>
+    <content><![CDATA[/* 加载配置 */
+'LOAD_EXT_CONFIG'      => 'alipay',             					// 加载数据配置
+]]></content>
+    <tabTrigger>c_loadconfig</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tp_c_loadconfig</description>
+</snippet>

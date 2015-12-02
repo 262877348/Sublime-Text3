@@ -1,0 +1,11 @@
+﻿<snippet>
+    <content><![CDATA[<if condition="${1:\$id lt 5 }">
+    value1
+<else /> 
+	value2
+</if>
+]]></content>
+    <tabTrigger>tpif</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpif</description>
+</snippet>

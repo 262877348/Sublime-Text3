@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+x"], "command": "alignment" },
+	{ "keys": ["ctrl+alt+c"], "command": "trimmer" }
+]

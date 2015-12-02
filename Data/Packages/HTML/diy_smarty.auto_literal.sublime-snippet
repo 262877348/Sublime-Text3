@@ -1,0 +1,8 @@
+﻿<snippet>
+<content><![CDATA[
+auto_literal = false;
+]]></content>
+<tabTrigger>autolit</tabTrigger>
+<scope>text.html</scope>
+<description>autolit</description>
+</snippet>

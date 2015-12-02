@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<base href="${1}" target="${2:_self}">]]></content>
+	<tabTrigger>base</tabTrigger>
+	<scope>text.html</scope>
+    <description>base …</description>
+</snippet>

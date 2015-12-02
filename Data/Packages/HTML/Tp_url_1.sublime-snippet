@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[{:U('${1:Index}/${2:index}',array('${3:id}'=>${4:1}))}
+]]></content>
+    <tabTrigger>tpurl1</tabTrigger>
+    <scope>text.html</scope>
+    <description>Tp_tpurl1</description>
+</snippet>
