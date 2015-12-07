@@ -17,6 +17,14 @@
 				"selected_items":
 				[
 					[
+						"font",
+						"font-family"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
 						"pritn",
 						"print_r"
 					],
@@ -47,10 +55,6 @@
 					[
 						"im",
 						"important"
-					],
-					[
-						"font",
-						"font-size"
 					],
 					[
 						"MO",
@@ -89,35 +93,45 @@
 			"buffers":
 			[
 				{
-					"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_edit.html",
+					"file": "/E/wamp/www/Login/index.html",
 					"settings":
 					{
-						"buffer_size": 6790,
+						"buffer_size": 1865,
+						"line_ending": "Windows",
+						"name": "index.html"
+					}
+				},
+				{
+					"file": "/E/wamp/www/MySystem/Application/Common/Conf/config.php",
+					"settings":
+					{
+						"buffer_size": 4426,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Public_login.html",
+					"settings":
+					{
+						"buffer_size": 1880,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/wamp/www/MySystem/Application/Admin/Controller/MenuController.class.php",
+					"file": "/E/wamp/www/Login/Css/login.css",
 					"settings":
 					{
-						"buffer_size": 2531,
-						"line_ending": "Windows"
+						"buffer_size": 223189,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
+					"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Css/login.css",
 					"settings":
 					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/wamp/www/onethink/Application/Admin/View/Menu/edit.html",
-					"settings":
-					{
-						"buffer_size": 3536,
-						"line_ending": "Windows"
+						"buffer_size": 223189,
+						"line_ending": "Windows",
+						"name": "login.css"
 					}
 				}
 			],
@@ -176,11 +190,77 @@
 			},
 			"file_history":
 			[
-				"/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
+				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/wamp/www/Login/index.html",
+				"/E/wamp/www/MySystem/api/uc.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/style.css",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
+				"/E/wamp/www/MySystem/api/uc_client/config.inc.php",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
+				"/E/wamp/www/ThinkTFC/api/uc_client/config.inc.php",
+				"/E/wamp/www/MySystem/Application/Extend/Lib/UcenterLib.class.php",
 				"/E/wamp/www/MySystem/Application/Common/Common/function.php",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_index.html",
-				"/E/wamp/www/onethink/Application/Admin/View/Menu/edit.html",
+				"/E/wamp/www/MySystem/Application/Extend/Lib/UcNote.class.php",
+				"/E/wamp/www/MySystem/Application/Ucenter/Controller/IndexController.class.php",
+				"/E/wamp/www/MySystem/Api/uc1.php",
+				"/E/wamp/www/MySystem/Api/uc2.php",
+				"/E/wamp/www/ThinkTFC/README.md",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
+				"/E/wamp/www/MySystem/api/config.inc.php",
+				"/E/wamp/www/MySystem/Application/Ucenter/Api/UcenterLib.class.php",
+				"/E/wamp/www/examples/api/uc.php",
+				"/E/wamp/www/testmygame/Api/config.inc.php",
+				"/E/wamp/www/testmygame/Application/Ucenter/Api/Api.class.php",
+				"/E/wamp/www/testmygame/Application/Ucenter/Api/UcenterLib.class.php",
+				"/E/wamp/www/tatalvyou/Application/Member/Controller/IndexController.class.php",
+				"/E/wamp/www/testmygame/Api/uc.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/String.class.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/PublicTool.class.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/HttpClient.class.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/BaseLib.class.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/UcenterLib.class.php",
+				"/E/wamp/www/testmygame/Application/Ucenter/Conf/config.php",
+				"/E/wamp/www/examples/config.inc.php",
+				"/E/wamp/www/examples/ucexample_1.php",
+				"/E/wamp/www/MySystem/Api/config.inc.php",
+				"/E/wamp/www/MySystem/Application/Runtime/Debug/log2015-12-04.log",
+				"/E/wamp/www/MySystem/Api/uc.php",
+				"/E/wamp/www/MySystem/Application/Ucenter/Api/Api.class.php",
+				"/E/wamp/www/MySystem/Ucenter.php",
+				"/E/wamp/www/MySystem/Application/Common/Conf/config.php",
+				"/E/wamp/www/MySystem/api.php",
+				"/E/wamp/www/MySystem/Application/Admin/Conf/config.php",
+				"/E/wamp/www/onethink/Application/Common/Conf/config.php",
+				"/E/wamp/www/onethink/Application/Admin/Controller/AdminController.class.php",
+				"/E/wamp/www/onethink/Application/Admin/View/Public/base.html",
+				"/E/wamp/www/onethink/Application/Admin/Controller/PublicController.class.php",
+				"/E/wamp/www/MySystem/user.php",
 				"/E/wamp/www/MySystem/Application/Admin/Controller/MenuController.class.php",
+				"/E/wamp/www/onethink/Application/Admin/Model/AuthGroupModel.class.php",
+				"/E/wamp/www/onethink/Application/Admin/Model/AuthRuleModel.class.php",
+				"/E/wamp/www/onethink/Application/Common/Common/function.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_video.html",
+				"/C/Users/Administrator/Desktop/hosts",
+				"/E/wamp/www/Sheying/Application/Admin/Controller/LoginController.class.php",
+				"/E/wamp/www/Sheying/Application/Home/View/public/homeheader.html",
+				"/E/wamp/www/Sheying/Application/Home/View/Index/index.html",
+				"/E/wamp/www/Sheying/Application/Home/Controller/IndexController.class.php",
+				"/E/wamp/www/Sheying/Application/Common/Conf/config.php",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/home.css",
+				"/E/wamp/www/tatalvyou/Application/Home/Controller/IndexController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
+				"/E/wamp/www/tatalvyou/Application/Home/Controller/ProductController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/Controller/ProductController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/Controller/IndexController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Admin/Controller/ProductController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Admin/View/Default/Product_add.html",
+				"/C/Users/Administrator/Desktop/1.xml",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_edit.html",
+				"/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
+				"/E/wamp/www/onethink/Application/Admin/View/Menu/edit.html",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_index.html",
 				"/E/wamp/www/MySystem/Application/Common/Model/TreeModel.class.php",
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/Access_nodeList.html",
 				"/E/wamp/www/MySystem/Public/Css/global.css",
@@ -188,12 +268,9 @@
 				"/E/wamp/www/onethink/Application/Common/Model/TreeModel.class.php",
 				"/E/wamp/www/onethink/Application/Admin/Common/function.php",
 				"/E/wamp/www/onethink/Application/Admin/View/User/index.html",
-				"/E/wamp/www/onethink/Application/Common/Common/function.php",
 				"/E/wamp/www/onethink/Application/Admin/Controller/ModelController.class.php",
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/PublicController.class.php",
 				"/E/wamp/www/onethink/Application/Admin/Controller/IndexController.class.php",
-				"/E/wamp/www/onethink/Application/Admin/Controller/AdminController.class.php",
 				"/E/wamp/www/onethink/Application/Admin/View/Index/index.html",
 				"/E/wamp/www/onethink/Application/Admin/Controller/UserController.class.php",
 				"/E/wamp/www/MySystem/Application/Admin/Controller/SystemController.class.php",
@@ -202,12 +279,9 @@
 				"/D/用户目录/下载/onethink_menu.sql",
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/User_index.html",
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/Css/console1412.css",
-				"/E/wamp/www/onethink/Application/Admin/View/Public/base.html",
 				"/E/wamp/www/tatalvyou/Application/Common/Common/function.php",
 				"/E/wamp/www/MySystem/ThinkPHP/Library/Think/Auth.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/Conf/config.php",
 				"/E/wamp/www/MySystem/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/MySystem/Application/Common/Conf/config.php",
 				"/E/wamp/www/system/ThinkPHP/Library/Think/Auth.class.php",
 				"/E/wamp/www/system/Application/Common/Conf/config.php",
 				"/E/wamp/www/system/Application/Admin/View/Default/Access_addNode.html",
@@ -243,67 +317,7 @@
 				"/E/wamp/www/auth/Application/Admin/View/Public/login.html",
 				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
 				"/E/wamp/www/tatalvyou/Application/Admin/Model/AccessModel.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/auth/Application/Admin/Controller/PublicController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Library/Util/Category.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_addEdit.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_index.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/User_index.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_changeRole.html",
-				"/E/wamp/www/system/Application/Admin/Controller/UserController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Base_footer.html",
-				"/E/wamp/www/system/Application/Admin/Controller/PublicController.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Common_sidebar1.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/bootstrap.css",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/expenseCenter.console.css",
-				"/E/wamp/www/system/Application/Home/Controller/IndexController.class.php",
-				"/H/Sublime-Text3/Data/Packages/HTML/Tp_include.sublime-snippet",
-				"/E/wamp/www/onethink/Application/Admin/View/Public/login.html",
-				"/E/wamp/www/onethink/Application/Admin/Model/MemberModel.class.php",
-				"/E/wamp/www/one.php",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Recall_index.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
-				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
-				"/E/wamp/www/system/Application/Common/Common/function.php",
-				"/E/wamp/www/system/Application/Common/Conf/websafe.php",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_author.sublime-snippet",
-				"/E/wamp/www/tatalvyou/Application/Admin/Model/PublicModel.class.php",
-				"/E/wamp/www/tatalvyou/Application/Common/Conf/systemConfig.php",
-				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
-				"/E/wamp/www/system/Application/Home/Conf/config.php",
-				"/E/wamp/www/AliyunTpl/login.html",
-				"/E/wamp/www/AliyunTpl/Css/login_mini_form_aliyun.css",
-				"/E/wamp/www/AliyunTpl/Css/mini-login-form-min.css",
-				"/E/wamp/www/AliyunTpl/Css/account_common.css",
-				"/E/wamp/www/AliyunTpl/Css/login.css",
-				"/E/wamp/www/AliyunTpl/Css/g.alicdn.com.css",
-				"/E/wamp/www/AliyunTpl/login1.html",
-				"/E/wamp/www/system/Application/Admin/Controller/EmptyController.class.php",
-				"/E/wamp/www/system/Application/Home/Controller/CommonController.class.php",
-				"/E/wamp/www/system/Application/Home/Controller/EmptyController.class.php",
-				"/E/wamp/www/system/Application/Home/Controller/PublicController.class.php",
-				"/H/Sublime-Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/H/Sublime-Text3/Data/Packages/Default/Preferences.sublime-settings",
-				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
-				"/E/wamp/www/system/admin.php",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_defindBind_module.sublime-snippet",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_ajaxReturn.sublime-snippet",
-				"/H/Sublime-Text3/Data/Packages/PHP/Php(-).sublime-snippet",
-				"/E/wamp/www/tatalvyou/member.php",
-				"/H/Sublime-Text3/Data/Cache/HTML/HTML.tmLanguage.cache",
-				"/D/Sublime-Text/Data/Packages/PHP/Php(-).sublime-snippet",
-				"/H/Sublime-Text3/Data/Packages/User/Php.sublime-snippet",
-				"/E/wamp/www/Test/index.php",
-				"/E/wamp/www/Test/admin.php",
-				"/E/wamp/www/cms/index.php",
-				"/E/wamp/www/cms/Common/runtime.php",
-				"/E/wamp/www/cms/PigCms/Lib/Action/BaseAction.class.php",
-				"/E/wamp/www/cms/PigCms/Lib/Action/Home/IndexAction.class.php",
-				"/E/wamp/www/haidao/plugin.php",
-				"/E/wamp/www/haidao/admin.php",
-				"/E/wamp/www/pigcms/Conf/db.php",
-				"/E/wamp/www/system/index.php"
+				"/E/wamp/www/system/Application/Admin/View/Default/Common_sidebar.html"
 			],
 			"find":
 			{
@@ -323,6 +337,52 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					" icon-input ",
+					" height:30px",
+					"/i",
+					"/assets/dashboard",
+					"/assets/landing",
+					"upai_icons.png",
+					"40",
+					"login-input-icon ",
+					"input",
+					"/images/gfx",
+					"\"/images/gfx",
+					"\"/css",
+					"/css",
+					")",
+					"(",
+					")",
+					"(",
+					"<span class='red'>(备注：行程时间除外)</span>",
+					"<b>",
+					"(备注：行程时间除外)",
+					"</span>",
+					"_stripslashes",
+					"_authcode",
+					"DISCUZ_ROOT",
+					"THINKCMF_AUTH",
+					"thinkcmf_auth",
+					"THINKCMF_AUTH",
+					"$this->appdir =",
+					"WEB_ROOT_PATH",
+					"\\Library\\Util",
+					"\\Extend\\Lib",
+					"_stripslashes",
+					"checkDynamic",
+					".itemList .photo",
+					".itemList .photo .img_info p",
+					"											<span class=\"text-white\"></span>",
+					"<span class=\"text-white\"></span>",
+					"blue",
+					"页脚",
+					"daohang2",
+					"</em>",
+					"<em>",
+					"price,",
+					"vo",
+					"全程&nbsp;",
+					"passage",
 					"list_to_tree",
 					"M('Menu')",
 					" class=\"center\"",
@@ -404,29 +464,7 @@
 					".topbar-home-link",
 					".aliyun-console-topbar .topbar-home-link",
 					"admin",
-					"//",
-					"pre",
-					"<?",
-					"四",
-					"Css/",
-					"css",
-					"Css",
-					"src=\"Images",
-					"../images",
-					"ADMIN",
-					"ADMIN_MODULE",
-					"DEFAULT_THEME",
-					"MODULE_NAME",
-					"Default",
-					"'/Application/'",
-					"BIND_MODULE",
-					"MODULE_NAME",
-					"'.C('LISTNUM.DEFAULT_THEME').'",
-					"住宿：行程所列或同级酒店(以两位成人共用一房为原则)。",
-					"//img.alicdn.com/tps/i4",
-					"//g.alicdn.com/aliyun/account/0.0.17/css",
-					"Ctrl + Shift + L",
-					"aaaa"
+					"//"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -451,88 +489,87 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_edit.html",
+							"file": "/E/wamp/www/Login/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6790,
+								"buffer_size": 1865,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3602,
-										3602
+										1865,
+										1865
 									]
 								],
 								"settings":
 								{
+									"auto_name": "index.html",
 									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1320.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/E/wamp/www/MySystem/Application/Admin/Controller/MenuController.class.php",
+							"file": "/E/wamp/www/MySystem/Application/Common/Conf/config.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2531,
+								"buffer_size": 4426,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2160,
-										2160
+										512,
+										512
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1122.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
+							"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Public_login.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 1880,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										412,
+										412
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -542,29 +579,59 @@
 						},
 						{
 							"buffer": 3,
-							"file": "/E/wamp/www/onethink/Application/Admin/View/Menu/edit.html",
+							"file": "/E/wamp/www/Login/Css/login.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3536,
+								"buffer_size": 223189,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1788,
-										1743
+										0,
+										223189
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 660.0,
+								"translation.y": 184896.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Css/login.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 223189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										223189,
+										223189
+									]
+								],
+								"settings":
+								{
+									"auto_name": "login.css",
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 266946.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -603,7 +670,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32000,-32000,-1,-1,1154,337,423,1376",
+			"position": "0,2,3,-1,-1,-1,-1,1154,337,423,1376",
 			"project": "",
 			"replace":
 			{
