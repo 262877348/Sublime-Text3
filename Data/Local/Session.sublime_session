@@ -17,12 +17,36 @@
 				"selected_items":
 				[
 					[
+						"json",
+						"json_encode"
+					],
+					[
+						"wh",
+						"where()"
+					],
+					[
 						"font",
-						"font-family"
+						"font-size"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"dis",
+						"display"
 					],
 					[
 						"mar",
-						"margin-bottom"
+						"margin-right"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"User",
+						"User_db"
 					],
 					[
 						"pritn",
@@ -93,45 +117,99 @@
 			"buffers":
 			[
 				{
-					"file": "/E/wamp/www/Login/index.html",
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header1.html",
 					"settings":
 					{
-						"buffer_size": 1865,
-						"line_ending": "Windows",
-						"name": "index.html"
-					}
-				},
-				{
-					"file": "/E/wamp/www/MySystem/Application/Common/Conf/config.php",
-					"settings":
-					{
-						"buffer_size": 4426,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Public_login.html",
-					"settings":
-					{
-						"buffer_size": 1880,
+						"buffer_size": 12354,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/wamp/www/Login/Css/login.css",
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
 					"settings":
 					{
-						"buffer_size": 223189,
-						"line_ending": "Unix"
+						"buffer_size": 13494,
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Css/login.css",
+					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
 					"settings":
 					{
-						"buffer_size": 223189,
-						"line_ending": "Windows",
-						"name": "login.css"
+						"buffer_size": 1122,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
+					"settings":
+					{
+						"buffer_size": 3107,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/H/Sublime-Text3/Data/Packages/HTML/Tp_notempty .sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 241,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
+					"settings":
+					{
+						"buffer_size": 5016,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
+					"settings":
+					{
+						"buffer_size": 1025,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/ArticleController.class.php",
+					"settings":
+					{
+						"buffer_size": 233,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Article_index.html",
+					"settings":
+					{
+						"buffer_size": 4,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
+					"settings":
+					{
+						"buffer_size": 4646,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar1.html",
+					"settings":
+					{
+						"buffer_size": 8360,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar.html",
+					"settings":
+					{
+						"buffer_size": 4225,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -190,8 +268,67 @@
 			},
 			"file_history":
 			[
-				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/H/Sublime-Text3/Data/Packages/HTML/Tp_volist.sublime-snippet",
+				"/H/Sublime-Text3/Data/Packages/PHP/Tp_I.sublime-snippet",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
+				"/E/wamp/www/Mysystem/Application/Common/Common/function.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Public_login.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/console1412.css",
+				"/E/wamp/www/1/index.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/Controller/WeixinController.class.php",
+				"/E/wamp/www/testmygame/Application/Member/View/User_basicInfo.html",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/PublicController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
+				"/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_base.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_add.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/System_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addEdit.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_editNode.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addNode.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
+				"/E/wamp/www/testmygame/Application/Common/Common/function.php",
+				"/E/wamp/www/Mysystem/Application/Common/Controller/BaseController.class.php",
+				"/E/wamp/www/Mysystem/Application/Common/Model/MemberModel.class.php",
+				"/E/wamp/www/testmygame/Application/Home/Model/UserModel.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/login.css",
+				"/E/wamp/www/Mysystem/Application/Library/Util/Code.class.php",
+				"/E/wamp/www/onethink/Application/Common/Common/function.php",
+				"/E/wamp/www/MySystem/Application/Library/Util/Code.class.php",
+				"/E/wamp/www/MySystem/Application/Admin/Controller/MemberController.class.php",
+				"/E/wamp/www/MySystem/Application/Common/Model/MemberModel.class.php",
+				"/E/wamp/www/onethink/Application/Home/Model/MemberModel.class.php",
+				"/E/wamp/www/ThinkTFC/application/Common/Common/function.php",
+				"/E/wamp/www/MySystem/Application/Common/Common/function.php",
+				"/H/Sublime-Text3/Data/Packages/PHP/Tp_auto.sublime-snippet",
+				"/E/wamp/www/haidao/appliaction/Model/UserModel.class.php",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Member_add.html",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Member_index.html",
+				"/H/Sublime-Text3/Data/Packages/PHP/Tp_validate.sublime-snippet",
+				"/E/wamp/www/ThinkTFC/application/Common/Model/UsersModel.class.php",
+				"/E/wamp/www/tatalvyou/Application/Home/Model/UserModel.class.php",
+				"/E/wamp/www/MySystem/Application/Admin/Controller/MenuController.class.php",
 				"/E/wamp/www/Login/index.html",
+				"/E/wamp/www/MySystem/Application/Common/Conf/config.php",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Index_index.html",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Common_header.html",
+				"/E/wamp/www/MySystem/Public/Css/global.css",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Css/console1412.css",
+				"/E/wamp/www/ThinkTFC/application/Common/Model/SlideCatModel.class.php",
+				"/E/wamp/www/MySystem/Application/Common/Model/UserModel.class.php",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Css/login.css",
+				"/E/wamp/www/Login/Css/login.css",
+				"/E/wamp/www/MySystem/Application/Admin/View/Default/Public_login.html",
+				"/E/wamp/www/MySystem/Application/Admin/Controller/CommonController.class.php",
+				"/H/Sublime-Text3/Data/Packages/PHP/Tp__initialize.sublime-snippet",
+				"/H/Sublime-Text3/Data/Packages/PHP/Tp_defindBind_module.sublime-snippet",
+				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
 				"/E/wamp/www/MySystem/api/uc.php",
 				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/style.css",
@@ -201,13 +338,11 @@
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
 				"/E/wamp/www/ThinkTFC/api/uc_client/config.inc.php",
 				"/E/wamp/www/MySystem/Application/Extend/Lib/UcenterLib.class.php",
-				"/E/wamp/www/MySystem/Application/Common/Common/function.php",
 				"/E/wamp/www/MySystem/Application/Extend/Lib/UcNote.class.php",
 				"/E/wamp/www/MySystem/Application/Ucenter/Controller/IndexController.class.php",
 				"/E/wamp/www/MySystem/Api/uc1.php",
 				"/E/wamp/www/MySystem/Api/uc2.php",
 				"/E/wamp/www/ThinkTFC/README.md",
-				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
 				"/E/wamp/www/MySystem/api/config.inc.php",
 				"/E/wamp/www/MySystem/Application/Ucenter/Api/UcenterLib.class.php",
 				"/E/wamp/www/examples/api/uc.php",
@@ -229,7 +364,6 @@
 				"/E/wamp/www/MySystem/Api/uc.php",
 				"/E/wamp/www/MySystem/Application/Ucenter/Api/Api.class.php",
 				"/E/wamp/www/MySystem/Ucenter.php",
-				"/E/wamp/www/MySystem/Application/Common/Conf/config.php",
 				"/E/wamp/www/MySystem/api.php",
 				"/E/wamp/www/MySystem/Application/Admin/Conf/config.php",
 				"/E/wamp/www/onethink/Application/Common/Conf/config.php",
@@ -237,10 +371,8 @@
 				"/E/wamp/www/onethink/Application/Admin/View/Public/base.html",
 				"/E/wamp/www/onethink/Application/Admin/Controller/PublicController.class.php",
 				"/E/wamp/www/MySystem/user.php",
-				"/E/wamp/www/MySystem/Application/Admin/Controller/MenuController.class.php",
 				"/E/wamp/www/onethink/Application/Admin/Model/AuthGroupModel.class.php",
 				"/E/wamp/www/onethink/Application/Admin/Model/AuthRuleModel.class.php",
-				"/E/wamp/www/onethink/Application/Common/Common/function.php",
 				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_video.html",
 				"/C/Users/Administrator/Desktop/hosts",
 				"/E/wamp/www/Sheying/Application/Admin/Controller/LoginController.class.php",
@@ -263,61 +395,7 @@
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_index.html",
 				"/E/wamp/www/MySystem/Application/Common/Model/TreeModel.class.php",
 				"/E/wamp/www/MySystem/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/MySystem/Public/Css/global.css",
-				"/E/wamp/www/onethink/Application/Admin/View/Menu/index.html",
-				"/E/wamp/www/onethink/Application/Common/Model/TreeModel.class.php",
-				"/E/wamp/www/onethink/Application/Admin/Common/function.php",
-				"/E/wamp/www/onethink/Application/Admin/View/User/index.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/ModelController.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/IndexController.class.php",
-				"/E/wamp/www/onethink/Application/Admin/View/Index/index.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/UserController.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/Controller/SystemController.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/System_index.html",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/Menu_add.html",
-				"/D/用户目录/下载/onethink_menu.sql",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/User_index.html",
-				"/E/wamp/www/MySystem/Application/Admin/View/Default/Css/console1412.css",
-				"/E/wamp/www/tatalvyou/Application/Common/Common/function.php",
-				"/E/wamp/www/MySystem/ThinkPHP/Library/Think/Auth.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/system/ThinkPHP/Library/Think/Auth.class.php",
-				"/E/wamp/www/system/Application/Common/Conf/config.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_addNode.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_editNode.html",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_validate.sublime-snippet",
-				"/E/wamp/www/system/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/system/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/auth/Application/Common/Conf/config.php",
-				"/E/wamp/www/auth/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/auth/Application/Admin/Controller/AuthController.class.php",
-				"/E/wamp/www/auth/Application/Admin/View/Public/left.html",
-				"/E/wamp/www/haidao/appliaction/Model/MenuModel.class.php",
-				"/E/wamp/www/system/Application/Library/Util/Category.class.php",
-				"/E/wamp/www/system/Application/Admin/Model/AuthRuleModel.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/home.console1412.css",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/console1412.css",
-				"/E/wamp/www/system/Application/Admin/Conf/config.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Common_header.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Public_login.html",
-				"/E/wamp/www/system/Public/Css/global.css",
-				"/E/wamp/www/system/Application/Admin/View/Default/Index_index.html",
-				"/E/wamp/www/system/Application/Admin/Controller/IndexController.class.php",
-				"/E/wamp/www/system/Application/Common/Controller/BaseController.class.php",
-				"/E/wamp/www/system/Application/Admin/Model/AccessModel.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/login.css",
-				"/C/Users/Administrator/Desktop/999/index.html",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/g.alicdn.com.css",
-				"/E/wamp/www/system/Application/Admin/View/Default/Css/login_mini_form_aliyun.css",
-				"/D/用户目录/下载/think_auth_rule.sql",
-				"/E/wamp/www/tatalvyou/Application/Admin/View/Default/Access_editNode.html",
-				"/E/wamp/www/onethink/Application/Admin/Model/ConfigModel.class.php",
-				"/E/wamp/www/auth/Application/Admin/View/Public/login.html",
-				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Admin/Model/AccessModel.class.php",
-				"/E/wamp/www/system/Application/Admin/View/Default/Common_sidebar.html"
+				"/E/wamp/www/onethink/Application/Admin/View/Menu/index.html"
 			],
 			"find":
 			{
@@ -337,6 +415,52 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"list",
+					", ",
+					",\n                'ele' => '0.000',\n                'name' => '4',\n                'sym' => 'Crossed Square'",
+					",\n                'ele' => '0.000'\n                'name' => '4',\n                'sym' => 'Crossed Square'",
+					"= array",
+					"]",
+					"[",
+					"volist",
+					"						<!-- ngIf: item.isOldVersion -->",
+					"email",
+					"<!",
+					"integer",
+					"// ",
+					"user",
+					"userId",
+					"userid",
+					"userId",
+					"eger",
+					"32",
+					"MODEL_INSERT",
+					"create_guid",
+					"=>",
+					", ",
+					"sp_get_asset_upload_path",
+					"                  ",
+					"                 ",
+					"                ",
+					"               ",
+					"              ",
+					"     ",
+					"		// ",
+					"		",
+					"self::MODEL_BOTH",
+					", 0",
+					"]",
+					"[",
+					"            [",
+					"[",
+					"get_client_ip",
+					"site_rwrite",
+					"{R",
+					"r",
+					"R",
+					"</div>",
+					"<div class=\"center\">",
+					"border-bottom: 1px solid #e1e6eb;",
 					" icon-input ",
 					" height:30px",
 					"/i",
@@ -418,53 +542,7 @@
 					"50a3a2",
 					"#53e3a6",
 					"#50a3a2",
-					"simple-grid-none-data-wrap",
-					" class=\"opStatus\"",
-					"th",
-					"td",
-					"getList",
-					"[ <a href=\"javascript:void(0);\" class=\"opStatus\" val=\"1\">禁用</a> ] [ <a href=\"/tatalvyou/index.php?s=/Admin/Access/editNode/id/1\" class=\"edit\">编辑</a> ]",
-					"getPid",
-					"ng-if=\"navLinks.qrcode.text\" ",
-					" ng-if=\"navLinks.qrcode.icon\" ",
-					"margin-right: 50px;",
-					"-3",
-					"26",
-					".text_input",
-					"<input name=\"data[]\"",
-					"&nbsp;&nbsp;",
-					"class=\"center\"",
-					"class=\"center",
-					"<th",
-					"<div>",
-					"<th>",
-					"//g.alicdn.com/aliyun/home/1.6.5/styles/home/images",
-					".no-data-info .icon-info-1",
-					"sidebar-trans",
-					"\"fonts",
-					"aliyun-console-font.woff?-m8cnoo",
-					"../fonts",
-					"class=\"sidebar-trans\"",
-					"sidebar-trans",
-					">\n",
-					"=\"\"></",
-					"					                                        \n",
-					"glyphicons-halflings-regular.woff",
-					"aliyun-console-font.woff?-m8cnoo",
-					"jquery-1.7.2",
-					"jquery-1.7.2.min.js",
-					"input",
-					"method",
-					"index.html",
-					"form ",
-					".form ",
-					".form",
-					"form",
-					"font",
-					".topbar-home-link",
-					".aliyun-console-topbar .topbar-home-link",
-					"admin",
-					"//"
+					"simple-grid-none-data-wrap"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -489,29 +567,28 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 9,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/wamp/www/Login/index.html",
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header1.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1865,
+								"buffer_size": 12354,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1865,
-										1865
+										11655,
+										11655
 									]
 								],
 								"settings":
 								{
-									"auto_name": "index.html",
 									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
@@ -523,25 +600,109 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/E/wamp/www/MySystem/Application/Common/Conf/config.php",
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4426,
+								"buffer_size": 13494,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										512,
-										512
+										1186,
+										1186
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 132.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										255,
+										255
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 44.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3039,
+										3039
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 330.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/H/Sublime-Text3/Data/Packages/HTML/Tp_notempty .sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										144,
+										144
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -550,20 +711,104 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Public_login.html",
+							"buffer": 5,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1880,
+								"buffer_size": 5016,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										412,
-										412
+										567,
+										545
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1025,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										411,
+										414
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 132.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/ArticleController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										69,
+										69
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Article_index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4,
+										0
 									]
 								],
 								"settings":
@@ -578,12 +823,12 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/E/wamp/www/Login/Css/login.css",
-							"semi_transient": false,
+							"buffer": 9,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 223189,
+								"buffer_size": 4646,
 								"regions":
 								{
 								},
@@ -591,47 +836,72 @@
 								[
 									[
 										0,
-										223189
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 184896.0,
+								"translation.y": 660.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/E/wamp/www/MySystem/Application/Admin/View/Default/Css/login.css",
+							"buffer": 10,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar1.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 223189,
+								"buffer_size": 8360,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										223189,
-										223189
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "login.css",
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 266946.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3550,
+										3550
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 924.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -670,7 +940,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,1154,337,423,1376",
+			"position": "0,2,3,-32000,-32000,-1,-1,1154,337,423,1376",
 			"project": "",
 			"replace":
 			{

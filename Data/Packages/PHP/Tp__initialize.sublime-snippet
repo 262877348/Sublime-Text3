@@ -1,9 +1,9 @@
 ﻿<snippet>
     <content><![CDATA[public function _initialize(){
-    ${1:# code...}
+    ${1:parent::_initialize();}
 }
 ]]></content>
-    <tabTrigger>k_init</tabTrigger>
+    <tabTrigger>_initialize</tabTrigger>
     <scope>source.php</scope>
-    <description>tp_initialize</description>
+    <description>_initialize</description>
 </snippet>

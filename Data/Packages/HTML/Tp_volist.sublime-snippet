@@ -5,7 +5,7 @@
     </volist>
 </volist>
 ]]></content>
-    <tabTrigger>tpvolist</tabTrigger>
+    <tabTrigger>tp_volist</tabTrigger>
     <scope>text.html</scope>
     <description>Tp_tpvolist</description>
 </snippet>

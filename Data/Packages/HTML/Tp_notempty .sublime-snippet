@@ -1,0 +1,11 @@
+﻿<snippet>
+    <content><![CDATA[<notempty name="${1:list}">
+	${2:code}
+<else />
+	${3:code}
+</notempty>
+]]></content>
+    <tabTrigger>tp_notempty</tabTrigger>
+    <scope>text.html</scope>
+    <description>tp_notempty</description>
+</snippet>

@@ -5,6 +5,11 @@
 // 批量验证
 // protected \$patchValidate = true;
 protected \$_validate = array(
+    //array(
+    //    array(验证字段1,验证规则,错误提示,[验证条件,附加规则,验证时间]),
+    //    array(验证字段2,验证规则,错误提示,[验证条件,附加规则,验证时间]),
+    //    ......
+    //);
     // 参数一【字段名称/必填项】：
     //              例如：title
     // 参数二【验证规则/必填项】：
@@ -49,7 +54,7 @@ protected \$_validate = array(
     array('表单字段名', '内置规则/自定义规则', '提示信息', '[验证条件]', '[附加规则]', '[验证时间]');
 );
 ]]></content>
-    <tabTrigger>auto_validate</tabTrigger>
+    <tabTrigger>_validate</tabTrigger>
     <scope>source.php</scope>
-    <description>auto_validate</description>
+    <description>_validate</description>
 </snippet>

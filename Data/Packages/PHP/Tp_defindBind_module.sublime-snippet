@@ -1,8 +1,0 @@
-﻿<snippet>
-    <content><![CDATA[// 绑定Admin模块到当前入口文件
-define('BIND_MODULE','${2:Admin}');
-]]></content>
-    <tabTrigger>D_BIND_MODULE</tabTrigger>
-    <scope>source.php</scope>
-    <description>BIND_MODULE</description>
-</snippet>
