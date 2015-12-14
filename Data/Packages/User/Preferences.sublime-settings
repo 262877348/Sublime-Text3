@@ -4,11 +4,8 @@
 	"font_face": "YaHei consolas Hybrid",
 	"font_size": 13,
 	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"soda_classic_tabs": true,
 	"theme": "Soda Dark 3.sublime-theme",
-	"update_check": false
+	"update_check": false,
+	"ignored_packages": []
 }
