@@ -5,7 +5,7 @@
 	${3:code}
 </notempty>
 ]]></content>
-    <tabTrigger>tp_notempty</tabTrigger>
+    <tabTrigger>tpnotempty</tabTrigger>
     <scope>text.html</scope>
-    <description>tp_notempty</description>
+    <description>tpnotempty</description>
 </snippet>
