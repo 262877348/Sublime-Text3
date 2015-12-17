@@ -17,6 +17,10 @@
 				"selected_items":
 				[
 					[
+						"mar",
+						"margin-bottom"
+					],
+					[
 						"nav",
 						"nav-item"
 					],
@@ -87,10 +91,6 @@
 					[
 						"app",
 						"appendTo	.appendTo()"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"text",
@@ -185,11 +185,59 @@
 			"buffers":
 			[
 				{
-					"file": "/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
+					"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
 					"settings":
 					{
-						"buffer_size": 4434,
+						"buffer_size": 38487,
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
+					"settings":
+					{
+						"buffer_size": 7753,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
+					"settings":
+					{
+						"buffer_size": 6512,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/tatalvyou/Application/Admin/View/Default/Webinfo_index.html",
+					"settings":
+					{
+						"buffer_size": 5260,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
+					"settings":
+					{
+						"buffer_size": 27230,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
+					"settings":
+					{
+						"buffer_size": 127814,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
+					"settings":
+					{
+						"buffer_size": 9565,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -248,12 +296,25 @@
 			},
 			"file_history":
 			[
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_empty.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_roleList.html",
+				"/E/wamp/www/Mysystem/Public/Css/global.css",
+				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article1.html",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
+				"/E/wamp/www/tatalvyou/Application/Admin/View/Default/Access_changeRole.html",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_editNode.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_roleList.html",
+				"/E/wamp/www/onethink/Application/Common/Common/function.php",
+				"/E/wamp/www/Mysystem/Application/Admin/Model/AuthGroupModel.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addNode.html",
+				"/E/wamp/www/one.php",
+				"/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
+				"/E/wamp/www/Mysystem/Public/Js/global.js",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_empty.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_intoHead.html",
@@ -263,16 +324,11 @@
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index1.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
-				"/E/wamp/www/Mysystem/Public/Js/global.js",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addNode.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/console1412.css",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/home.console1412.css",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/login.css",
-				"/E/wamp/www/Mysystem/Public/Css/global.css",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/System_index.html",
 				"/E/wamp/www/Haidao2/system/module/admin/control/index_control.class.php",
-				"/E/wamp/www/one.php",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Js/index.js",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_notEmpty.sublime-snippet",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_notempty .sublime-snippet",
@@ -286,7 +342,6 @@
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar5.html",
 				"/E/wamp/www/Haidao2/system/function/function.php",
 				"/E/wamp/www/Mysystem/Application/Common/Common/function.php",
-				"/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Model/AuthRuleModel.class.php",
 				"/E/wamp/www/Haidao2/系统说明.txt",
 				"/E/wamp/www/JQuery/jiedian.html",
@@ -349,12 +404,10 @@
 				"/E/wamp/www/Auth/Application/Common/Controller/AuthController.class.php",
 				"/E/wamp/www/Auth/Application/Home/Conf/config.php",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Recall_index.html",
-				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
 				"/E/wamp/www/backData/rbacauth/Application/Admin/Controller/AccessController.class.php",
 				"/E/wamp/www/tatalvyou/Application/Admin/Controller/CommonController.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header1.html",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Controller/ArticleController.class.php",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_volist.sublime-snippet",
 				"/H/Sublime-Text3/Data/Packages/PHP/Tp_I.sublime-snippet",
@@ -363,19 +416,14 @@
 				"/E/wamp/www/testmygame/Application/Member/View/User_basicInfo.html",
 				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addEdit.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_editNode.html",
 				"/E/wamp/www/testmygame/Application/Common/Common/function.php",
 				"/E/wamp/www/Mysystem/Application/Common/Model/MemberModel.class.php",
 				"/E/wamp/www/testmygame/Application/Home/Model/UserModel.class.php",
 				"/E/wamp/www/Mysystem/Application/Library/Util/Code.class.php",
-				"/E/wamp/www/onethink/Application/Common/Common/function.php",
 				"/E/wamp/www/MySystem/Application/Library/Util/Code.class.php",
 				"/E/wamp/www/MySystem/Application/Admin/Controller/MemberController.class.php",
 				"/E/wamp/www/MySystem/Application/Common/Model/MemberModel.class.php",
-				"/E/wamp/www/onethink/Application/Home/Model/MemberModel.class.php",
-				"/E/wamp/www/ThinkTFC/application/Common/Common/function.php",
-				"/E/wamp/www/MySystem/Application/Common/Common/function.php",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_auto.sublime-snippet"
+				"/E/wamp/www/onethink/Application/Home/Model/MemberModel.class.php"
 			],
 			"find":
 			{
@@ -395,6 +443,50 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"vo",
+					"status",
+					"padding:3px 0px 3px 0px;",
+					"background:#303030;",
+					"303030",
+					"5",
+					"http://img.tuniucdn.com/icons/route/plain.gif",
+					"plain",
+					"#68cc3d",
+					"<label class=\"fl\">图片展示：",
+					"<label class=\"fl\">餐食：",
+					"tripIcon tripIcon_sc",
+					"南湾",
+					"dengba",
+					"biejing",
+					"dengba",
+					"biejing",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/6F/Cii9EVZoFQiINpetAAxCIZtFRFYAAA6_AO70GMADEI5921_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/filebroker/cdn/vnd/bc/b8/bcb8487568ea09530f5675b33eabd58d_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EVZoF0yIUUu9AAoOZuibMpEAAA7AAInO8QACg5-053_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EFZoF0KIAg_0AAzjz95StjEAAA7AAHrBfEADOPn269_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EVZoF0yIUUu9AAoOZuibMpEAAA7AAInO8QACg5-053_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EFZoF0KIAg_0AAzjz95StjEAAA7AAHrBfEADOPn269_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EVZoFuqIHkEJAB0ncLNINBcAAA7AAE8wegAHSeI739_w320_h240_c1_t0.png",
+					"http://m.tuniucdn.com/fb2/t1/G1/M00/52/74/Cii9EVZoFtyIaX2mACU2x4xqp6QAAA7AAEC1v8AJTbf981_w320_h240_c1_t0.png",
+					"http://m.tuniucdn.com/filebroker/cdn/vnd/f3/34/f3341dd9ff1c5537651937eec608b36c_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/filebroker/cdn/vnd/83/8c/838cafc29c28f3ad4e3c0cf0cd6f78bb_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/filebroker/cdn/vnd/7c/2b/7c2ba0108a4d608fd293c02aa2b58d8f_w320_h240_c1_t0.jpg",
+					"http://m.tuniucdn.com/filebroker/cdn/vnd/46/94/4694364ede97775e411da11376c0cd9a_w320_h240_c1_t0.jpg",
+					"$M",
+					"$info",
+					"default",
+					"width:763px",
+					"city_pic",
+					"city_pic_con",
+					"\" tripday_des",
+					"\"fl",
+					"fl",
+					"!important",
+					"class=\"clearfix\"",
+					"<dd class=\"clearfix\">",
+					"<span class=\"tripIcon tripIcon_sc\"></span>",
+					"fl",
+					"dd",
 					"height: 100px;",
 					"class=\"team\"",
 					"{$product.psize}{$product.keywords}",
@@ -478,51 +570,7 @@
 					"     ",
 					"		// ",
 					"		",
-					"self::MODEL_BOTH",
-					", 0",
-					"]",
-					"[",
-					"            [",
-					"[",
-					"get_client_ip",
-					"site_rwrite",
-					"{R",
-					"r",
-					"R",
-					"</div>",
-					"<div class=\"center\">",
-					"border-bottom: 1px solid #e1e6eb;",
-					" icon-input ",
-					" height:30px",
-					"/i",
-					"/assets/dashboard",
-					"/assets/landing",
-					"upai_icons.png",
-					"40",
-					"login-input-icon ",
-					"input",
-					"/images/gfx",
-					"\"/images/gfx",
-					"\"/css",
-					"/css",
-					")",
-					"(",
-					")",
-					"(",
-					"<span class='red'>(备注：行程时间除外)</span>",
-					"<b>",
-					"(备注：行程时间除外)",
-					"</span>",
-					"_stripslashes",
-					"_authcode",
-					"DISCUZ_ROOT",
-					"THINKCMF_AUTH",
-					"thinkcmf_auth",
-					"THINKCMF_AUTH",
-					"$this->appdir =",
-					"WEB_ROOT_PATH",
-					"\\Library\\Util",
-					"\\Extend\\Lib"
+					"self::MODEL_BOTH"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -547,33 +595,204 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
+							"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4434,
+								"buffer_size": 38487,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										388,
-										388
+										27767,
+										27767
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 18370.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7753,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3577,
+										3587
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2244.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6512,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1894,
+										1894
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 462.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/wamp/www/tatalvyou/Application/Admin/View/Default/Webinfo_index.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 5260,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3211,
+										3279
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1056.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27230,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6865,
+										6865
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3036.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 127814,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										75896,
+										75896
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 105300.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1253,
+										1253
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 198.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
