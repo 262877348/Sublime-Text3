@@ -18,6 +18,14 @@
 				"selected_items":
 				[
 					[
+						"border",
+						"border-radius"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
 						"che",
 						"checked"
 					],
@@ -214,10 +222,66 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Websver/one.php",
+					"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_bankList.html",
 					"settings":
 					{
-						"buffer_size": 407,
+						"buffer_size": 6590,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Ucenter/Controller/MoneyController.class.php",
+					"settings":
+					{
+						"buffer_size": 903,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_deposit.html",
+					"settings":
+					{
+						"buffer_size": 3533,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Admin/Controller/FinanceController.class.php",
+					"settings":
+					{
+						"buffer_size": 1076,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Admin/View/Default/Finance_success_mpay.html",
+					"settings":
+					{
+						"buffer_size": 5555,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Home/View/Default/Ranking_index.html",
+					"settings":
+					{
+						"buffer_size": 17709,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_addBank.html",
+					"settings":
+					{
+						"buffer_size": 2748,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_authBank.html",
+					"settings":
+					{
+						"buffer_size": 5294,
 						"line_ending": "Windows"
 					}
 				}
@@ -277,6 +341,26 @@
 			},
 			"file_history":
 			[
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_withdraw.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_authBank.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_addBank.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_bankList.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_complete.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_deposit.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_confirm.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/User_authEnd.html",
+				"/C/Users/Administrator/Downloads/bankData.json",
+				"/D/Websver/Myobjet/Application/Merchant/Controller/SetupController.class.php",
+				"/D/Websver/Myobjet/Application/Ucenter/Controller/MoneyController.class.php",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_history.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_addBank.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Index_home.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Advisor_index.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Index_index.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Public_sidebar.html",
+				"/D/Websver/Myobjet/Application/Ucenter/Controller/AdvisorController.class.php",
+				"/D/Websver/Myobjet/Application/Home/Controller/IndexController.class.php",
+				"/D/Websver/Myobjet/Application/Home/View/Default/Index_index.html",
 				"/D/Websver/one.php",
 				"/H/Sublime-Text3/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/E/wamp/www/JQuery/jiedian.html",
@@ -384,27 +468,7 @@
 				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_sidebar.html",
 				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_header.html",
 				"/E/wamp/www/Test/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Access_index.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/Test/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/Test2/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_base.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_intoHead.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Css/expenseCenter.console.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_panel.html",
-				"/E/wamp/www/examples/ucexample_1.php",
-				"/E/wamp/www/examples/config.inc.php",
-				"/E/wamp/www/Test/Public/Css/global.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Menu_index.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/style.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar2.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Admin/Model/AccessModel.class.php",
-				"/E/wamp/www/onethink/Application/Admin/Model/CategoryModel.class.php",
-				"/E/wamp/www/Auth/Application/Admin/Conf/config.php",
-				"/E/wamp/www/Auth/Application/Common/Controller/AuthController.class.php",
-				"/E/wamp/www/Auth/Application/Home/Conf/config.php"
+				"/E/wamp/www/Test/Application/Admin/View/Default/Access_index.html"
 			],
 			"find":
 			{
@@ -424,6 +488,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"    ",
+					"User",
+					".card-box-list ",
+					"Inherited from ",
+					".card-box-list ",
+					" style=\"background-color: rgb(235, 235, 228);cursor:not-allowed;\"  ",
+					"  onmousedown=\"return false\";",
+					"{$school.mobile}",
+					"Index/list'",
+					"Index/list",
 					"\\",
 					"i",
 					"ctrl",
@@ -541,17 +615,7 @@
 					"()\n",
 					"site-menu",
 					"list_to_tree",
-					"site-menu",
-					"./statics/i",
-					"./statics/images/l",
-					"/Haidao2/statics/i",
-					"																							",
-					"																						",
-					"																					",
-					"																				",
-					"																			",
-					"																		",
-					"../images"
+					"site-menu"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -576,32 +640,232 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 6,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Websver/one.php",
+							"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_bankList.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 407,
+								"buffer_size": 6590,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										382,
-										391
+										6156,
+										6156
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage"
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3564.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Websver/Myobjet/Application/Ucenter/Controller/MoneyController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 903,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										623,
+										623
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 132.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_deposit.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3533,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3103,
+										3103
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1650.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Websver/Myobjet/Application/Admin/Controller/FinanceController.class.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1076,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										937,
+										937
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Websver/Myobjet/Application/Admin/View/Default/Finance_success_mpay.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5555,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5524,
+										5524
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/Websver/Myobjet/Application/Home/View/Default/Ranking_index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17709,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5808.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_addBank.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2748,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										332,
+										332
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_authBank.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5293,
+										5293
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4026.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"

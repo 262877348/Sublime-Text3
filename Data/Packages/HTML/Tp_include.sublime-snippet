@@ -1,7 +1,7 @@
 ﻿<snippet>
-    <content><![CDATA[<!--HEADER START-->
-<include file="Common/header" />
-<!--/HEADER END-->
+    <content><![CDATA[<!-- ${3:header}  -->
+<include file="${1:Public}/${2:header}" />
+<!-- /${3:header}  -->
 ]]></content>
     <tabTrigger>tpinclude</tabTrigger>
     <scope>text.html</scope>
