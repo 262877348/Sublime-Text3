@@ -1,0 +1,13 @@
+﻿<snippet>
+    <content><![CDATA[
+G('begin');
+//${1:放入需要测试性能的代码}
+G('end');
+//${2:...也许这里还有其他代码}
+echo G('begin','end').'s';
+${0}echo G('begin','end','m').'kb';  //如果你的环境支持内存占用统计的话，还可以使用G方法进行区间内存开销统计（单位为kb）
+]]></content>
+    <tabTrigger>G</tabTrigger>
+    <scope>source.php</scope>
+    <description>tp_G</description>
+</snippet>

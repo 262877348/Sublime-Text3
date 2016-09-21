@@ -1,0 +1,10 @@
+﻿<snippet>
+    <content><![CDATA[<extend name="${1:Common}:${2:base}" />
+<block name="main">
+	${0:main}
+</block>
+]]></content>
+    <tabTrigger>tpextend</tabTrigger>
+    <scope>text.html</scope>
+    <description>tp_extend</description>
+</snippet>

@@ -1,0 +1,7 @@
+﻿<snippet>
+    <content><![CDATA[<block name="${1:main}"></block>${0}
+]]></content>
+    <tabTrigger>tpblock</tabTrigger>
+    <scope>text.html</scope>
+    <description>tpblock</description>
+</snippet>
