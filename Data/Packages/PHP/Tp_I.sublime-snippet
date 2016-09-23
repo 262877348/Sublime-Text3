@@ -1,7 +1,7 @@
 ﻿<snippet>
     <content><![CDATA[${3:\$id} = I('${1:get}.${2:id}',0,'intval');
 ]]></content>
-    <tabTrigger>I</tabTrigger>
+    <tabTrigger>I-int</tabTrigger>
     <scope>source.php</scope>
     <description>tp_I</description>
 </snippet>

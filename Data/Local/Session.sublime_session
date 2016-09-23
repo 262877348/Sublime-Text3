@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/Websver",
 		"/E/wamp/www"
 	],
 	"last_version": 3047,
@@ -16,6 +17,58 @@
 			{
 				"selected_items":
 				[
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"this",
+						"thisId"
+					],
+					[
+						"chekc",
+						"checkData"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ch",
+						"change	.change()"
+					],
+					[
+						"chek",
+						"checkboxTab"
+					],
+					[
+						"hi",
+						"height	.height()"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"authgroup",
+						"authgroup_db"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
 					[
 						"mar",
 						"margin-bottom"
@@ -33,20 +86,12 @@
 						"thisa"
 					],
 					[
-						"ma",
-						"mainFrame"
-					],
-					[
 						"if",
 						"iframeSrc"
 					],
 					[
 						"sub",
 						"submenu"
-					],
-					[
-						"hi",
-						"hidden"
 					],
 					[
 						"remov",
@@ -85,10 +130,6 @@
 						"removeClass	.removeClass()"
 					],
 					[
-						"ch",
-						"children	.children()"
-					],
-					[
 						"app",
 						"appendTo	.appendTo()"
 					],
@@ -103,10 +144,6 @@
 					[
 						"wh",
 						"where()"
-					],
-					[
-						"font",
-						"font-size"
 					],
 					[
 						"js",
@@ -184,62 +221,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
-					"settings":
-					{
-						"buffer_size": 38487,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
-					"settings":
-					{
-						"buffer_size": 7753,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
-					"settings":
-					{
-						"buffer_size": 6512,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/wamp/www/tatalvyou/Application/Admin/View/Default/Webinfo_index.html",
-					"settings":
-					{
-						"buffer_size": 5260,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
-					"settings":
-					{
-						"buffer_size": 27230,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
-					"settings":
-					{
-						"buffer_size": 127814,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
-					"settings":
-					{
-						"buffer_size": 9565,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -296,40 +277,92 @@
 			},
 			"file_history":
 			[
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
-				"/E/wamp/www/Mysystem/Public/Css/global.css",
-				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article1.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
-				"/E/wamp/www/tatalvyou/Application/Admin/View/Default/Access_changeRole.html",
+				"/D/Sublime-Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Websver/one.php",
+				"/D/Websver/phpinfo.php",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_bankList.html",
+				"/D/Websver/Myobjet/Application/Ucenter/Controller/MoneyController.class.php",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_deposit.html",
+				"/D/Websver/Myobjet/Application/Admin/Controller/FinanceController.class.php",
+				"/D/Websver/Myobjet/Application/Admin/View/Default/Finance_success_mpay.html",
+				"/D/Websver/Myobjet/Application/Home/View/Default/Ranking_index.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_addBank.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_authBank.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_withdraw.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Setup_addBank.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_complete.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_confirm.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/User_authEnd.html",
+				"/C/Users/Administrator/Downloads/bankData.json",
+				"/D/Websver/Myobjet/Application/Merchant/Controller/SetupController.class.php",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_history.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Index_home.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Advisor_index.html",
+				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Index_index.html",
+				"/D/Websver/Myobjet/Application/Merchant/View/Default/Public_sidebar.html",
+				"/D/Websver/Myobjet/Application/Ucenter/Controller/AdvisorController.class.php",
+				"/D/Websver/Myobjet/Application/Home/Controller/IndexController.class.php",
+				"/D/Websver/Myobjet/Application/Home/View/Default/Index_index.html",
+				"/H/Sublime-Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/wamp/www/JQuery/jiedian.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Js/layerUi.js",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_intoHead.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Js/index.js",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_confirm.html",
+				"/E/wamp/www/Mysystem/Application/Common/Conf/websafe.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_groupAuth.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_index.html",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_editNode.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_addEdit.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/console1412.css",
+				"/E/wamp/www/one.php",
+				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/System_index.html",
+				"/E/wamp/www/Mysystem/Public/Js/global.js",
+				"/E/wamp/www/JQuery/demo.js",
+				"/E/wamp/www/tatalvyou/Application/Admin/Controller/UserController.class.php",
+				"/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_balidao.html",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_balidao.html",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_pujidao.html",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_pujidao.html",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/product_article.css",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_guonei.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Admin/View/Default/Access_changeRole.html",
+				"/E/wamp/www/Test/Application/Common/Conf/config.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_roleList.html",
+				"/E/wamp/www/Mysystem/Public/Css/global.css",
+				"/E/wamp/www/Mysystem/Application/Common/Controller/BaseController.class.php",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
+				"/E/wamp/www/Mysystem/ThinkPHP/Library/Think/Auth.class.php",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/pujidao/Common_pujidao.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
+				"/E/wamp/www/Mysystem/Application/Common/Common/function.php",
+				"/E/wamp/www/tatalvyou/Application/Admin/Controller/AccessController.class.php",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Article_index.html",
+				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
+				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article1.html",
+				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_editNode.html",
 				"/E/wamp/www/onethink/Application/Common/Common/function.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Model/AuthGroupModel.class.php",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addNode.html",
-				"/E/wamp/www/one.php",
-				"/E/wamp/www/Mysystem/Application/Common/Conf/config.php",
-				"/E/wamp/www/Mysystem/Public/Js/global.js",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_empty.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_intoHead.html",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_include.sublime-snippet",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/System_home.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index1.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/console1412.css",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/home.console1412.css",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Css/login.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/System_index.html",
 				"/E/wamp/www/Haidao2/system/module/admin/control/index_control.class.php",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Js/index.js",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_notEmpty.sublime-snippet",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_notempty .sublime-snippet",
 				"/H/Sublime-Text3/Data/Packages/HTML/Tp_if.sublime-snippet",
@@ -341,13 +374,9 @@
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar4.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar5.html",
 				"/E/wamp/www/Haidao2/system/function/function.php",
-				"/E/wamp/www/Mysystem/Application/Common/Common/function.php",
 				"/E/wamp/www/Mysystem/Application/Admin/Model/AuthRuleModel.class.php",
 				"/E/wamp/www/Haidao2/系统说明.txt",
-				"/E/wamp/www/JQuery/jiedian.html",
-				"/E/wamp/www/JQuery/demo.js",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Member_add.html",
-				"/H/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
 				"/H/Sublime-Text3/Data/Packages/Default/Preferences.sublime-settings",
 				"/H/Sublime-Text3/Data/Packages/HTML/diy_html5.sublime-snippet",
 				"/H/Sublime-Text3/Data/Packages/PHP/include(-).sublime-snippet",
@@ -368,7 +397,6 @@
 				"/E/wamp/www/haidao/appliaction/Controller/Admin/IndexController.class.php",
 				"/E/wamp/www/haidao/appliaction/Controller/AdminBaseController.class.php",
 				"/E/wamp/www/haidao/statics/css/admin/style.css",
-				"/E/wamp/www/Mysystem/Application/Common/Controller/BaseController.class.php",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
 				"/E/wamp/www/Mysystem/Application/Admin/Controller/PublicController.class.php",
 				"/E/wamp/www/Test/Application/Admin/View/Default/Common_base.html",
@@ -376,54 +404,7 @@
 				"/E/wamp/www/Test/Application/Admin/Controller/CommonController.class.php",
 				"/E/wamp/www/Test/Application/Admin/View/Default/Common_header.html",
 				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_base.html",
-				"/E/wamp/www/haidao/appliaction/Controller/Admin/Template/header.tpl.php",
-				"/E/wamp/www/haidao/statics/js/common.js",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_header.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Common_sidebar.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Access_index.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/Test/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/Test2/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_base.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Access_nodeList.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Common_intoHead.html",
-				"/E/wamp/www/Test2/Application/Admin/View/Default/Css/expenseCenter.console.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Index_panel.html",
-				"/E/wamp/www/examples/ucexample_1.php",
-				"/E/wamp/www/examples/config.inc.php",
-				"/E/wamp/www/Test/Public/Css/global.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Article_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Menu_index.html",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/style.css",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_sidebar2.html",
-				"/E/wamp/www/onethink/Application/Admin/Controller/MenuController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Admin/Model/AccessModel.class.php",
-				"/E/wamp/www/onethink/Application/Admin/Model/CategoryModel.class.php",
-				"/E/wamp/www/Auth/Application/Admin/Conf/config.php",
-				"/E/wamp/www/Auth/Application/Common/Controller/AuthController.class.php",
-				"/E/wamp/www/Auth/Application/Home/Conf/config.php",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Recall_index.html",
-				"/E/wamp/www/backData/rbacauth/Application/Admin/Controller/AccessController.class.php",
-				"/E/wamp/www/tatalvyou/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/MemberController.class.php",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_header1.html",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/ArticleController.class.php",
-				"/H/Sublime-Text3/Data/Packages/HTML/Tp_volist.sublime-snippet",
-				"/H/Sublime-Text3/Data/Packages/PHP/Tp_I.sublime-snippet",
-				"/E/wamp/www/1/index.php",
-				"/E/wamp/www/tatalvyou/Application/Mobile/Controller/WeixinController.class.php",
-				"/E/wamp/www/testmygame/Application/Member/View/User_basicInfo.html",
-				"/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Index_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_addEdit.html",
-				"/E/wamp/www/testmygame/Application/Common/Common/function.php",
-				"/E/wamp/www/Mysystem/Application/Common/Model/MemberModel.class.php",
-				"/E/wamp/www/testmygame/Application/Home/Model/UserModel.class.php",
-				"/E/wamp/www/Mysystem/Application/Library/Util/Code.class.php",
-				"/E/wamp/www/MySystem/Application/Library/Util/Code.class.php",
-				"/E/wamp/www/MySystem/Application/Admin/Controller/MemberController.class.php",
-				"/E/wamp/www/MySystem/Application/Common/Model/MemberModel.class.php",
-				"/E/wamp/www/onethink/Application/Home/Model/MemberModel.class.php"
+				"/E/wamp/www/haidao/appliaction/Controller/Admin/Template/header.tpl.php"
 			],
 			"find":
 			{
@@ -443,6 +424,61 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"    ",
+					"User",
+					".card-box-list ",
+					"Inherited from ",
+					".card-box-list ",
+					" style=\"background-color: rgb(235, 235, 228);cursor:not-allowed;\"  ",
+					"  onmousedown=\"return false\";",
+					"{$school.mobile}",
+					"Index/list'",
+					"Index/list",
+					"\\",
+					"i",
+					"ctrl",
+					"alt",
+					"alt+",
+					"$('.ng-scope li')",
+					" hidden",
+					"ng-repeat=\"tab in tabs\" ",
+					"alt",
+					"18",
+					"(1)、",
+					"20",
+					"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+					"&nbsp; &nbsp; &nbsp; &nbsp;",
+					"&nbsp; &nbsp; &nbsp; &nbsp;  ",
+					"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+					"&nbsp; &nbsp; &nbsp; &nbsp;",
+					"（",
+					" ）",
+					"（ ",
+					"参考酒店",
+					"<b style=\"color:blue;\"",
+					"关联树控制",
+					" \n",
+					"balidao/DB",
+					"balidao",
+					"header",
+					"						",
+					"clear",
+					"clear10",
+					"rules",
+					" font20",
+					" class=\"team\"",
+					" style=\"color:orange !important;margin:0px;margin-bottom:5px;\"",
+					"span",
+					"<br>",
+					"pujidao/plain.gif",
+					"dengba",
+					"/balidao",
+					"dao/DB",
+					"DB",
+					"pujidao",
+					"balidao",
+					"header",
+					"！');",
 					"vo",
 					"status",
 					"padding:3px 0px 3px 0px;",
@@ -515,62 +551,7 @@
 					"()\n",
 					"site-menu",
 					"list_to_tree",
-					"site-menu",
-					"./statics/i",
-					"./statics/images/l",
-					"/Haidao2/statics/i",
-					"																							",
-					"																						",
-					"																					",
-					"																				",
-					"																			",
-					"																		",
-					"../images",
-					"/Haidao2/statics/",
-					"/Haidao2/statics/c",
-					"float-code",
-					"show_menu",
-					"$vo['name']",
-					"rgba(128, 128, 128, 0.41);",
-					"vo",
-					"sub_menu",
-					"getList",
-					"Node",
-					"100",
-					"Url",
-					"list",
-					", ",
-					",\n                'ele' => '0.000',\n                'name' => '4',\n                'sym' => 'Crossed Square'",
-					",\n                'ele' => '0.000'\n                'name' => '4',\n                'sym' => 'Crossed Square'",
-					"= array",
-					"]",
-					"[",
-					"volist",
-					"						<!-- ngIf: item.isOldVersion -->",
-					"email",
-					"<!",
-					"integer",
-					"// ",
-					"user",
-					"userId",
-					"userid",
-					"userId",
-					"eger",
-					"32",
-					"MODEL_INSERT",
-					"create_guid",
-					"=>",
-					", ",
-					"sp_get_asset_upload_path",
-					"                  ",
-					"                 ",
-					"                ",
-					"               ",
-					"              ",
-					"     ",
-					"		// ",
-					"		",
-					"self::MODEL_BOTH"
+					"site-menu"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -589,214 +570,14 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "E:\\wamp\\www"
+					"path": "D:\\Websver"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Product_article.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38487,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27767,
-										27767
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 18370.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/wamp/www/Mysystem/Application/Admin/Controller/AccessController.class.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7753,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3577,
-										3587
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2244.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/wamp/www/Mysystem/Application/Admin/View/Default/Access_changeRole.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6512,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1894,
-										1894
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 462.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/wamp/www/tatalvyou/Application/Admin/View/Default/Webinfo_index.html",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 5260,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3211,
-										3279
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1056.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Product_article.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27230,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6865,
-										6865
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 3036.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/wamp/www/tatalvyou/Application/Home/View/Default/Css/product.article.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 127814,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										75896,
-										75896
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 105300.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/E/wamp/www/tatalvyou/Application/Mobile/View/Default/Css/index.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 9565,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1253,
-										1253
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 198.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -831,7 +612,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32000,-32000,-1,-1,965,532,234,1571",
+			"position": "0,2,3,-1,-1,-1,-1,965,532,234,1571",
 			"project": "",
 			"replace":
 			{

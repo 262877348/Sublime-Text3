@@ -1,14 +1,16 @@
 ﻿<snippet>
   <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cn">
 <head>
-	<title>HTML5的标题</title>
-	<meta charset="UTF-8">
-	<meta name="keywords" content="关键字">
-	<meta name="description" content="简介">
+    <meta charset="utf-8"></meta>
+    <meta content="IE=edge" httpequiv="X-UA-Compatible"></meta>
+    <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+    <title>铭扬致远系统管理中心</title>
+    <meta content="铭扬致远系统管理中心" name="description"></meta>
+    <meta content="铭扬致远系统管理中心" name="Keywords"></meta>
 </head>
 <body>
-  	${1:# code...}
+  	${0:# code...}
 </body>
 </html>
 ]]></content>
