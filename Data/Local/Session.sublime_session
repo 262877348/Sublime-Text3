@@ -221,13 +221,53 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Websver/Fanli/application/api/controller/Weixin.php",
+					"settings":
+					{
+						"buffer_size": 5709,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1380,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/common/model/Seller.php",
+					"settings":
+					{
+						"buffer_size": 2482,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 110.0,
+				"height": 335.0,
 				"selected_items":
 				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -245,10 +285,6 @@
 						"Snippet: html"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: Remove Package"
 					],
@@ -257,7 +293,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 514.0
+				"width": 386.0
 			},
 			"console":
 			{
@@ -278,6 +314,12 @@
 			"file_history":
 			[
 				"/D/Sublime-Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Websver/Fanli/sftp-config.json",
+				"/D/Websver/Fanli/application/api/controller/v1/Push.php",
+				"/D/Sublime-Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Websver/Fanli/application/common/model/Seller.php",
+				"/D/Websver/Fanli/application/index/view/receivables_getUserMobile.html",
+				"/D/Sublime-Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/Websver/one.php",
 				"/D/Websver/phpinfo.php",
 				"/D/Websver/Myobjet/Application/Ucenter/View/Default/Money_bankList.html",
@@ -398,17 +440,11 @@
 				"/E/wamp/www/haidao/appliaction/Controller/AdminBaseController.class.php",
 				"/E/wamp/www/haidao/statics/css/admin/style.css",
 				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/PublicController.class.php",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Common_base.html",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Index_index.html",
-				"/E/wamp/www/Test/Application/Admin/Controller/CommonController.class.php",
-				"/E/wamp/www/Test/Application/Admin/View/Default/Common_header.html",
-				"/E/wamp/www/Mysystem/Application/Admin/View/Default/Common_base.html",
-				"/E/wamp/www/haidao/appliaction/Controller/Admin/Template/header.tpl.php"
+				"/E/wamp/www/Mysystem/Application/Admin/Controller/PublicController.class.php"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -576,8 +612,106 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Websver/Fanli/application/api/controller/Weixin.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5709,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3231,
+										3231
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1849.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Websver/Fanli/sftp-config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1380,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										252,
+										252
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Websver/Fanli/application/common/model/Seller.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2482,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1667,
+										1683
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 750.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -612,7 +746,11 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,965,532,234,1571",
+			"output.sftp":
+			{
+				"height": 162.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,965,532,234,1571",
 			"project": "",
 			"replace":
 			{
