@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AutoFileName",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
@@ -15,6 +16,7 @@
 		"SFTP",
 		"Theme - Soda",
 		"Thinkphp",
+		"TrailingSpaces",
 		"Trimmer"
 	]
 }

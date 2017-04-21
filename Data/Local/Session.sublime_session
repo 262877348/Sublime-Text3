@@ -225,7 +225,66 @@
 					"file": "/D/Websver/Fanli/application/api/controller/Weixin.php",
 					"settings":
 					{
-						"buffer_size": 5709,
+						"buffer_size": 6516,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/api/controller/Api.php",
+					"settings":
+					{
+						"buffer_size": 17234,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/index/controller/Receivables.php",
+					"settings":
+					{
+						"buffer_size": 16922,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n ________returnInfo________\n''【 Now 】:  2017-04-18 17:01:44\n\n ________xml________'<xml><appid><![CDATA[wx193855a830e6c724]]></appid>\n<attach><![CDATA[15501052244,70,194]]></attach>\n<bank_type><![CDATA[CFT]]></bank_type>\n<cash_fee><![CDATA[1]]></cash_fee>\n<fee_type><![CDATA[CNY]]></fee_type>\n<is_subscribe><![CDATA[Y]]></is_subscribe>\n<mch_id><![CDATA[1428136302]]></mch_id>\n<nonce_str><![CDATA[0jl3pl2dku3uypa8v2b3an5bewupvcr9]]></nonce_str>\n<openid><![CDATA[oUekKwWvlspHi0eeEIjQ24Q4Hx1U]]></openid>\n<out_trade_no><![CDATA[20170418170752565210]]></out_trade_no>\n<result_code><![CDATA[SUCCESS]]></result_code>\n<return_code><![CDATA[SUCCESS]]></return_code>\n<sign><![CDATA[FBC9B1CE7DAF84B67A169D8EA6CEE8A8]]></sign>\n<time_end><![CDATA[20170418170809]]></time_end>\n<total_fee>1</total_fee>\n<trade_type><![CDATA[JSAPI]]></trade_type>\n<transaction_id><![CDATA[4008502001201704187464906121]]></transaction_id>\n</xml>'【 Now 】:  2017-04-18 17:08:10\n\n ________returnInfo________''【 Now 】:  2017-04-18 17:08:12\n\n ________returnInfo________''【 Now 】:  2017-04-18 17:08:23\n\n ________xml________'<xml><appid><![CDATA[wx193855a830e6c724]]></appid>\n<attach><![CDATA[15501052244,70,194]]></attach>\n<bank_type><![CDATA[CFT]]></bank_type>\n<cash_fee><![CDATA[1]]></cash_fee>\n<fee_type><![CDATA[CNY]]></fee_type>\n<is_subscribe><![CDATA[Y]]></is_subscribe>\n<mch_id><![CDATA[1428136302]]></mch_id>\n<nonce_str><![CDATA[0jl3pl2dku3uypa8v2b3an5bewupvcr9]]></nonce_str>\n<openid><![CDATA[oUekKwWvlspHi0eeEIjQ24Q4Hx1U]]></openid>\n<out_trade_no><![CDATA[20170418170752565210]]></out_trade_no>\n<result_code><![CDATA[SUCCESS]]></result_code>\n<return_code><![CDATA[SUCCESS]]></return_code>\n<sign><![CDATA[FBC9B1CE7DAF84B67A169D8EA6CEE8A8]]></sign>\n<time_end><![CDATA[20170418170809]]></time_end>\n<total_fee>1</total_fee>\n<trade_type><![CDATA[JSAPI]]></trade_type>\n<transaction_id><![CDATA[4008502001201704187464906121]]></transaction_id>\n</xml>'【 Now 】:  2017-04-18 17:08:25\n\n ________xml________'<xml><appid><![CDATA[wx193855a830e6c724]]></appid>\n<attach><![CDATA[15501052244,70,194]]></attach>\n<bank_type><![CDATA[CFT]]></bank_type>\n<cash_fee><![CDATA[1]]></cash_fee>\n<fee_type><![CDATA[CNY]]></fee_type>\n<is_subscribe><![CDATA[Y]]></is_subscribe>\n<mch_id><![CDATA[1428136302]]></mch_id>\n<nonce_str><![CDATA[0jl3pl2dku3uypa8v2b3an5bewupvcr9]]></nonce_str>\n<openid><![CDATA[oUekKwWvlspHi0eeEIjQ24Q4Hx1U]]></openid>\n<out_trade_no><![CDATA[20170418170752565210]]></out_trade_no>\n<result_code><![CDATA[SUCCESS]]></result_code>\n<return_code><![CDATA[SUCCESS]]></return_code>\n<sign><![CDATA[FBC9B1CE7DAF84B67A169D8EA6CEE8A8]]></sign>\n<time_end><![CDATA[20170418170809]]></time_end>\n<total_fee>1</total_fee>\n<trade_type><![CDATA[JSAPI]]></trade_type>\n<transaction_id><![CDATA[4008502001201704187464906121]]></transaction_id>\n</xml>'【 Now 】:  2017-04-18 17:08:43\n",
+					"file": "/D/Websver/Fanli/log.txt",
+					"file_size": 2851,
+					"file_write_time": 131371487450952793,
+					"settings":
+					{
+						"buffer_size": 2827,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/log2.txt",
+					"settings":
+					{
+						"buffer_size": 2648,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/common.php",
+					"settings":
+					{
+						"buffer_size": 38646,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/api/controller/v1/Tenants.php",
+					"settings":
+					{
+						"buffer_size": 33893,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/index/controller/Index.php",
+					"settings":
+					{
+						"buffer_size": 3773,
 						"line_ending": "Windows"
 					}
 				},
@@ -233,7 +292,7 @@
 					"file": "/D/Websver/Fanli/sftp-config.json",
 					"settings":
 					{
-						"buffer_size": 1380,
+						"buffer_size": 1379,
 						"line_ending": "Windows"
 					}
 				},
@@ -313,6 +372,11 @@
 			},
 			"file_history":
 			[
+				"/D/Websver/Fanli/extend/weixin/WxPayPubHelper.php",
+				"/D/Websver/Fanli/log1.txt",
+				"/D/Websver/Fanli/log3.txt",
+				"/D/Websver/Fanli/log2.txt",
+				"/D/Websver/Fanli/log4.txt",
 				"/D/Sublime-Text3/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/D/Websver/Fanli/sftp-config.json",
 				"/D/Websver/Fanli/application/api/controller/v1/Push.php",
@@ -435,12 +499,7 @@
 				"/E/wamp/www/Haidao2/system/module/admin/control/module_control.class.php",
 				"/E/wamp/www/Haidao2/system/module/admin/control/init_control.class.php",
 				"/E/wamp/www/Haidao2/system/module/admin/template/index.tpl.php",
-				"/E/wamp/www/haidao/appliaction/Controller/Admin/Template/index.tpl.php",
-				"/E/wamp/www/haidao/appliaction/Controller/Admin/IndexController.class.php",
-				"/E/wamp/www/haidao/appliaction/Controller/AdminBaseController.class.php",
-				"/E/wamp/www/haidao/statics/css/admin/style.css",
-				"/E/wamp/www/tatalvyou/Application/Home/View/Default/Index_index.html",
-				"/E/wamp/www/Mysystem/Application/Admin/Controller/PublicController.class.php"
+				"/E/wamp/www/haidao/appliaction/Controller/Admin/Template/index.tpl.php"
 			],
 			"find":
 			{
@@ -460,6 +519,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"set_referee_status",
+					"enterprise_telephone",
+					"bank_type",
+					"setParameter",
+					"code",
+					"sendSms",
 					"    ",
 					"User",
 					".card-box-list ",
@@ -581,13 +646,7 @@
 					"list_to_tree",
 					"sidebar-left",
 					"sidebar-fold ng-scope icon-unfold",
-					"product-navbar-collapse",
-					"sm",
-					"this",
-					"()\n",
-					"site-menu",
-					"list_to_tree",
-					"site-menu"
+					"product-navbar-collapse"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -621,15 +680,49 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5709,
+								"buffer_size": 6516,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3231,
-										3231
+										2051,
+										2051
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1325.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Websver/Fanli/application/api/controller/Api.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17234,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15531,
+										15531
 									]
 								],
 								"settings":
@@ -642,31 +735,222 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1849.0,
+								"translation.y": 10869.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/D/Websver/Fanli/sftp-config.json",
+							"buffer": 2,
+							"file": "/D/Websver/Fanli/application/index/controller/Receivables.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1380,
+								"buffer_size": 16922,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										252,
-										252
+										11051,
+										11051
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6074.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Websver/Fanli/log.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2827,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 975.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Websver/Fanli/log2.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2648,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1787,
+										1796
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1050.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/Websver/Fanli/application/common.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38646,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16733,
+										16744
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 13746.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Websver/Fanli/application/api/controller/v1/Tenants.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 33893,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 18623.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/Websver/Fanli/application/index/controller/Index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3773,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										841,
+										841
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 525.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/Websver/Fanli/sftp-config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1379,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										251,
+										251
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
 									"origin_encoding": "ASCII",
 									"remote_loading": false,
 									"synced": false,
@@ -681,7 +965,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 9,
 							"file": "/D/Websver/Fanli/application/common/model/Seller.php",
 							"semi_transient": false,
 							"settings":
@@ -693,13 +977,15 @@
 								"selection":
 								[
 									[
-										1667,
-										1683
+										2396,
+										2408
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -707,7 +993,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 750.0,
+								"translation.y": 900.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
