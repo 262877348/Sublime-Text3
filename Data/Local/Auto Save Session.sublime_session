@@ -847,7 +847,15 @@
 					"file": "/D/Websver/Fanli/application/api/controller/Weixin.php",
 					"settings":
 					{
-						"buffer_size": 5798,
+						"buffer_size": 5953,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Fanli/application/api/controller/Weixin.php.bak.php",
+					"settings":
+					{
+						"buffer_size": 8532,
 						"line_ending": "Windows"
 					}
 				},
@@ -855,7 +863,7 @@
 					"file": "/D/Websver/Fanli/application/api/controller/Api.php",
 					"settings":
 					{
-						"buffer_size": 17239,
+						"buffer_size": 17238,
 						"line_ending": "Windows"
 					}
 				},
@@ -935,9 +943,13 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 160.0,
+				"height": 375.0,
 				"selected_items":
 				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
 					[
 						"Package Control: in",
 						"Package Control: Install Package"
@@ -1150,6 +1162,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"lastUserId",
 					"addTransaction",
 					"insertPaymentLog",
 					"Transaction",
@@ -1276,8 +1289,7 @@
 					"header",
 					"../fonts",
 					"Fonts",
-					"../Fonts",
-					"images"
+					"../Fonts"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1311,20 +1323,21 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5798,
+								"buffer_size": 5953,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5254,
-										5254
+										3712,
+										3712
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": true,
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1333,31 +1346,33 @@
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3450.0,
+								"translation.y": 2325.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/Websver/Fanli/application/api/controller/Api.php",
-							"semi_transient": false,
+							"file": "/D/Websver/Fanli/application/api/controller/Weixin.php.bak.php",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 17239,
+								"buffer_size": 8532,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										15638,
-										15638
+										4259,
+										4152
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1365,13 +1380,47 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 10715.0,
+								"translation.y": 2850.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+							"file": "/D/Websver/Fanli/application/api/controller/Api.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17238,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15742,
+										15742
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10190.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
 							"file": "/D/Websver/Fanli/application/api/controller/v1/Shop.php",
 							"semi_transient": false,
 							"settings":
@@ -1398,6 +1447,8 @@
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1411,7 +1462,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 4,
 							"file": "/D/Websver/Fanli/application/index/controller/Receivables.php",
 							"semi_transient": false,
 							"settings":
@@ -1445,7 +1496,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 5,
 							"file": "/D/Websver/Fanli/log2.txt",
 							"semi_transient": false,
 							"settings":
@@ -1479,7 +1530,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 6,
 							"file": "/D/Websver/Fanli/application/api/controller/v1/Tenants.php",
 							"semi_transient": false,
 							"settings":
@@ -1513,7 +1564,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 7,
 							"file": "/D/Websver/Fanli/application/api/controller/v1/Transaction.php",
 							"semi_transient": false,
 							"settings":
@@ -1532,6 +1583,8 @@
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1545,7 +1598,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 8,
 							"file": "/D/Websver/Fanli/application/api/controller/v1/User.php",
 							"semi_transient": false,
 							"settings":
@@ -1564,6 +1617,8 @@
 								"settings":
 								{
 									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"synced": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1577,7 +1632,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 9,
 							"file": "/D/Websver/Fanli/application/index/controller/Index.php",
 							"semi_transient": false,
 							"settings":
@@ -1611,7 +1666,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 9,
+							"buffer": 10,
 							"file": "/D/Websver/Fanli/sftp-config.json",
 							"semi_transient": false,
 							"settings":
@@ -1645,7 +1700,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 10,
+							"buffer": 11,
 							"file": "/D/Websver/Fanli/application/common/model/Seller.php",
 							"semi_transient": false,
 							"settings":
@@ -1716,7 +1771,7 @@
 			{
 				"height": 162.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,965,532,234,1571",
+			"position": "0,2,3,-1,-1,-1,-1,965,532,234,1571",
 			"project": "",
 			"replace":
 			{
