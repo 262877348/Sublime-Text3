@@ -8,13 +8,14 @@
 		"Alignment",
 		"AutoFileName",
 		"ConvertToUTF8",
+		"CSScomb",
+		"CTags",
 		"DocBlockr",
 		"Emmet",
 		"jQuery",
 		"Package Control",
 		"SFTP",
 		"Theme - Soda",
-		"Thinkphp",
-		"Trimmer"
+		"Thinkphp"
 	]
 }

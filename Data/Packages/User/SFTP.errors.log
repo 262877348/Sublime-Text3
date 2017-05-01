@@ -1,0 +1,1197 @@
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:54
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:22:59
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:09
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:11
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:11
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:11
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:24
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:27
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:23:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:01
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:02
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:02
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:02
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:10
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:12
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:12
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:56
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:57
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:57
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:57
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:57
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:24:57
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1998, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2099, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1910, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3355, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1416, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1824, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2200, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3010, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3189, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3230, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1618, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3311, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:26
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2754, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2301, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2516, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1471, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2225, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1706, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
+2017-05-02 03:25:28
+Traceback (most recent call last):
+  File "D:\Sublime-Text3\sublime_plugin.py", line 458, in is_visible_
+    ret = self.is_visible()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3112, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 155, in get_path
+AttributeError: 'Window' object has no attribute 'extract_variables'
