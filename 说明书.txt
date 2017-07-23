@@ -1,3 +1,39 @@
 提供的破解方法教程：
-点击注册机中间的 Patch key ，找到sublime text 3的目录，双击 sublime.exe ，再输入 Name ，再点Generate 就出来License，复制License，打开Sublime Text 3 ，点菜单栏的 Help → Enter license 粘贴您的License即可。
-汉化包安装教程：进入 \Sublime Text Build 3047\Packages 将汉化包中的文件拖入替换即可。
+第一步：点击注册机中间的 Patch key ，找到sublime text 3的目录，双击 sublime.exe ，再输入 Name ，再点Generate 就出来License，复制License，打开Sublime Text 3 ，点菜单栏的 Help → Enter license 粘贴您的License即可。
+
+第二步：汉化包安装教程：进入 \Sublime Text Build 3047\Packages 将汉化包中的文件拖入替换即可。
+
+第三步：Preferences->设置用户
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_face": "YaHei consolas Hybrid",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false
+}
+
+第四步：按键绑定->设置用户
+[
+	{ "keys": ["ctrl+shift+x"], "command": "alignment" },
+	{ "keys": ["ctrl+alt+c"], "command": "trimmer" },
+	{ "keys": ["ctrl+alt+backspace"], "command":"move_to", "args": {"to": "bol","extend": false} },
+	{ "keys": ["ctrl+alt+enter"], "command":"move_to", "args": {"to": "eol","extend": false} },
+	{ "keys": ["shift+alt+b"], "command":"move_to", "args": {"to": "bol","extend": true} },
+	{ "keys": ["shift+alt+e"], "command":"move_to", "args": {"to": "eol","extend": true} },
+	{ "keys": ["ctrl+alt+pageup"], "command":"scroll_lines", "args": {"amount": 1.0 } },
+	{ "keys": ["ctrl+alt+pagedown"], "command":"scroll_lines", "args": {"amount": -1.0 } },
+	{ "keys": ["ctrl+alt+j"], "command": "move","args": {"by": "characters", "forward":false} },
+	{ "keys": ["ctrl+alt+l"], "command": "move","args": {"by": "characters", "forward":true} },
+	{ "keys": ["ctrl+alt+i"], "command": "move","args": {"by": "lines", "forward":false} },
+	{ "keys": ["ctrl+alt+k"], "command": "move","args": {"by": "lines", "forward":true} },
+	{ "keys": ["shift+alt+l" ], "command":"move", "args": {"by": "characters","forward": false, "extend": true} },
+	{ "keys": ["shift+alt+r"], "command":"move", "args": {"by": "characters","forward": true, "extend": true} },
+	{ "keys": ["shift+alt+u" ], "command":"move", "args": {"by": "lines","forward": false, "extend": true} },
+	{ "keys": ["shift+alt+d" ], "command":"move", "args": {"by": "lines","forward": true, "extend": true} },
+]
